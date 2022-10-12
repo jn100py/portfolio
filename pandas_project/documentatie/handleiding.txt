@@ -1,10 +1,12 @@
 # Introductie
 
-In dit project werden data m.b.t. Nederlandse gemeenten geanalyseerd m.b.v. Pandas, een bekende uitbreiding voor Python om
+In dit project werden gegevens m.b.t. Nederlandse gemeenten geanalyseerd m.b.v. Pandas, een bekende uitbreiding voor Python om
 data analyses mee te doen.
 
 De analyse onderzoekt relaties tussen stemgedrag, gemiddeld inkomen, bevolkingsgrootte, werkloosheid percentage en dergelijke
 op basis van statistische gegevens die hier per Nederlandse gemeente over beschikbaar zijn.
+
+De resultaten zijn direct online te bekijken in GitHub door op de notebook file analysis_municipality_data.ipynb te klikken.
 
 
 # Bronnen
@@ -33,24 +35,19 @@ alwaar de analyses op de data plaatsvinden, en tevens de plots getoond worden.
 
 # Resultaat
 
-Naast de Jupyter Notebook files (te herkennen aan de extensie .ipynb), is ook nog een pdf
-export beschikbaar van beide notebook files.
-
-De resultaten kunnen dus ook direct ingezien worden door de pdf files te openen.
-
-Wie geïnteresseerd is in de Jupyter Notebook files zelf, dient daarvoor eerst de benodigde
-software te installeren op zijn PC.
+De Jupyter Notebook files kunnen op GitHub bekeken worden, maar het is ook mogelijk ze te downloaden en
+lokaal van harde schijf te starten.
 
 
-## Hoe de Jupyter Notebook files te openen
+## Hoe de Jupyter Notebook files te openen vanaf een harde schijf
 
 Zorg dat Jupyter Notebooks geïnstalleerd is.
 
 Verder zijn benodigd:
 
-                versie
+                minimale versie
                 ------
-    Python      3.6 of hoger
+    Python      3.6
     Pandas      1.2.3
     matplotlib  3.3.4
     numpy       1.20.1
