@@ -27,7 +27,7 @@ In this repository I showcase a selection of projects on which I worked the last
 **testing:** Pytest and Selenium<br/>
 
 
-### Documentviewer
+### Document Viewer
 
 **languages:** Node.js, React and JavaScript / Fetch API and JSON<br/>
 
