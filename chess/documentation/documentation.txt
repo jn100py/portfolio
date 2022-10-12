@@ -1,0 +1,85 @@
+# prerequisites
+
+Python version 3.6 or higher
+
+
+
+# Installation
+
+Copy the folder chess to a location on the hard disk.
+
+
+- Create a virtual environment and install packages:
+
+Open a terminal.
+
+cd to a folder where you like to create a new virtual environment.
+
+Create a virtual environment:
+    python3 -m venv virtenv_chess
+
+activate your virtualenv:
+    source </path/to>/virtenv_chess/bin/activate
+
+Then type: pip install -r </path/to>/chess/installation/requirements.txt
+
+
+
+- Unit test drivers
+
+To be able to execute the unit tests, the following driver needs to be installed:
+
+    A browser driver for Selenium
+    The Firefox driver can be found here: https://github.com/mozilla/geckodriver/releases
+
+    Make sure the file geckodriver is in the path.
+
+    One method is:
+        Uncompress the downloaded file
+        Make a symlink from the folder /usr/local/bin to the geckodriver file
+
+
+
+
+
+
+
+# Initialization
+
+- Create a new database
+
+Delete an existing database if it exists
+Filename is: database.db, and file can be found in the root of the application directory.
+
+activate the virtual environment:
+    source </path/to>/virtenv_chess/bin/activate
+
+Then type:
+
+FLASK_ENV=development; python3 </path/to>/chess/manage.py shell
+
+db.create_all()
+
+
+A new file database.db is now added in the application directory.
+
+
+
+
+
+
+# Start application
+
+Activate virtual environment:
+    source /path/to/virtenv_chess/bin/activate
+
+Start the application:
+    FLASK_ENV=development; python3 </path/to>/chess/manage.py runserver
+
+
+In the browser type: http://127.0.0.1:5000
+
+
+From the main screen a new game can be started.
+
+

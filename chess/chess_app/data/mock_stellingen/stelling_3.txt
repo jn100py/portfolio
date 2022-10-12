@@ -1,0 +1,35 @@
+a8 black Rook
+b8 black Knight
+c8 black Bishop
+d8 black Queen
+e8 black King
+f8 black Bishop
+g8 black Knight
+h8 black Rook
+
+a7 black Pawn
+b7 black Pawn
+c7 black Pawn
+d5 black Pawn
+e7 black Pawn
+f7 black Pawn
+g7 black Pawn
+h7 black Pawn
+
+a2 white Pawn
+b2 white Pawn
+c2 white Pawn
+d2 white Pawn
+e4 white Pawn
+f2 white Pawn
+g2 white Pawn
+h2 white Pawn
+
+a1 white Rook
+b1 white Knight
+c1 white Bishop
+d1 white Queen
+e1 white King
+f1 white Bishop
+g1 white Knight
+h1 white Rook

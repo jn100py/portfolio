@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block body %}
+
+<button type="button" onclick="submitMove()">Move</button>
+
+<p id="message"></p>
+
+<img id="img_chessboard" src="/static/images/chessboard.jpg"/>
+
+<div id="pieces">
+    <img id="img_piece_rook_black_1" class="ui-widget-content" src="/static/images/brook.png"/>
+    <img id="img_piece_knight_black_1" class="ui-widget-content" src="/static/images/bknight.png"/>
+    <img id="img_piece_bishop_black_1" class="ui-widget-content" src="/static/images/bbishop.png"/>
+    <img id="img_piece_queen_black_1" class="ui-widget-content" src="/static/images/bqueen.png"/>
+    <img id="img_piece_king_black_1" class="ui-widget-content" src="/static/images/bking.png"/>
+    <img id="img_piece_bishop_black_2" class="ui-widget-content" src="/static/images/bbishop.png"/>
+    <img id="img_piece_knight_black_2" class="ui-widget-content" src="/static/images/bknight.png"/>
+    <img id="img_piece_rook_black_2" class="ui-widget-content" src="/static/images/brook.png"/>
+
+    <img id="img_piece_pawn_black_1" class="ui-widget-content" src="/static/images/bpawn.png"/>
+    <img id="img_piece_pawn_black_2" class="ui-widget-content" src="/static/images/bpawn.png"/>
+    <img id="img_piece_pawn_black_3" class="ui-widget-content" src="/static/images/bpawn.png"/>
+    <img id="img_piece_pawn_black_4" class="ui-widget-content" src="/static/images/bpawn.png"/>
+    <img id="img_piece_pawn_black_5" class="ui-widget-content" src="/static/images/bpawn.png"/>
+    <img id="img_piece_pawn_black_6" class="ui-widget-content" src="/static/images/bpawn.png"/>
+    <img id="img_piece_pawn_black_7" class="ui-widget-content" src="/static/images/bpawn.png"/>
+    <img id="img_piece_pawn_black_8" class="ui-widget-content" src="/static/images/bpawn.png"/>
+
+    <img id="img_piece_pawn_white_1" class="ui-widget-content" src="/static/images/wpawn.png"/>
+    <img id="img_piece_pawn_white_2" class="ui-widget-content" src="/static/images/wpawn.png"/>
+    <img id="img_piece_pawn_white_3" class="ui-widget-content" src="/static/images/wpawn.png"/>
+    <img id="img_piece_pawn_white_4" class="ui-widget-content" src="/static/images/wpawn.png"/>
+    <img id="img_piece_pawn_white_5" class="ui-widget-content" src="/static/images/wpawn.png"/>
+    <img id="img_piece_pawn_white_6" class="ui-widget-content" src="/static/images/wpawn.png"/>
+    <img id="img_piece_pawn_white_7" class="ui-widget-content" src="/static/images/wpawn.png"/>
+    <img id="img_piece_pawn_white_8" class="ui-widget-content" src="/static/images/wpawn.png"/>
+
+    <img id="img_piece_rook_white_1" class="ui-widget-content" src="/static/images/wrook.png"/>
+    <img id="img_piece_knight_white_1" class="ui-widget-content" src="/static/images/wknight.png"/>
+    <img id="img_piece_bishop_white_1" class="ui-widget-content" src="/static/images/wbishop.png"/>
+    <img id="img_piece_queen_white_1" class="ui-widget-content" src="/static/images/wqueen.png"/>
+    <img id="img_piece_king_white_1" class="ui-widget-content" src="/static/images/wking.png"/>
+    <img id="img_piece_bishop_white_2" class="ui-widget-content" src="/static/images/wbishop.png"/>
+    <img id="img_piece_knight_white_2" class="ui-widget-content" src="/static/images/wknight.png"/>
+    <img id="img_piece_rook_white_2" class="ui-widget-content" src="/static/images/wrook.png"/>
+</div>
+
+<p id="current_possible_moves"></p>
+
+{% endblock %}

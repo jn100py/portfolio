@@ -1,0 +1,8 @@
+a8 black King
+a7 black Pawn
+h7 black Pawn
+
+h6 white Knight
+b5 white Pawn
+b1 white Rook
+e1 white King

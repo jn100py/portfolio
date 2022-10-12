@@ -1,0 +1,37 @@
+# How to work in test mode
+
+set TESTMODE = True in constants.py
+
+A cookie will not be set and only the first four news items will be shown in the browser.
+
+
+
+
+# How to use pytest to unit test the application
+
+Unit tests can be found in the folder /test
+
+
+First, open a terminal and cd to the newsreader project.
+
+Then, to test the application use the following commands:
+
+
+      pytest -v ./test
+
+will execute all unit tests.
+
+
+      pytest -v ./test/test_1_dictionary.py
+      pytest -v ./test/test_2_datetime.py
+      pytest -v ./test/test_3_entry.py
+
+will execute the unit tests in a particular unit test file.
+
+
+for a coverage analysis, use:
+
+      coverage run -m pytest -v .//test
+      coverage report
+      coverage html
+

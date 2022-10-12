@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>Headlines</title>
+        <link type="text/css" rel="stylesheet" href="{{url_for('static', filename='css/style.css') }}">
+    </head>
+    <body>
+        <div id="article">
+        {% for article in articles %}
+            <p>{{article.published}}</p>
+            <b><a id="article_title" href="{{article.link}}">{{article.title}}</a></b>
+            <br id="article_whitespace"/>
+            <p id="article_summary">{{article.summary | safe}}</p>
+        {% endfor %}
+        </div>
+
+        <p id="footer">
+        Nr of articles shown            : {{ articles | length }}</br> 
+        Nr of articles filtered         : {{nr_articles_filtered}}</br> 
+        Nr of entries without published : {{nr_entries_without_published}}</p> 
+
+    </body>
+</html>

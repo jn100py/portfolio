@@ -1,0 +1,109 @@
+# Introductie
+
+In dit project werden data m.b.t. Nederlandse gemeenten geanalyseerd m.b.v. Pandas, een bekende uitbreiding voor Python om
+data analyses mee te doen.
+
+De analyse onderzoekt relaties tussen stemgedrag, gemiddeld inkomen, bevolkingsgrootte, werkloosheid percentage en dergelijke
+op basis van statistische gegevens die hier per Nederlandse gemeente over beschikbaar zijn.
+
+
+# Bronnen
+
+De data is afkomstig uit twee publiekelijk beschikbare databronnen, te weten:
+    https://www.waarstaatjegemeente.nl/jive
+    https://www.verkiezingsuitslagen.nl
+
+Onderzoek naar stemgedrag is gebaseerd op gegevens m.b.t. de verkiezingsuitslag van de Tweede Kamer verkiezingen in 2021.
+
+In de bijlage wordt ingegaan op de problematiek van de gemeentelijke herindeling.
+
+
+# Werkwijze
+
+Het eerste notebook: merge_data_sources.ipynb
+
+schoont de datasets op, en voegt ze daarna samen.
+
+Dit resulteert in een nieuwe file: gemeentedata_merged.csv
+
+Dit bestand wordt ingeladen in het notebook: analysis_municipality_data.ipynb
+
+alwaar de analyses op de data plaatsvinden, en tevens de plots getoond worden.
+
+
+# Resultaat
+
+Naast de Jupyter Notebook files (te herkennen aan de extensie .ipynb), is ook nog een pdf
+export beschikbaar van beide notebook files.
+
+De resultaten kunnen dus ook direct ingezien worden door de pdf files te openen.
+
+Wie geïnteresseerd is in de Jupyter Notebook files zelf, dient daarvoor eerst de benodigde
+software te installeren op zijn PC.
+
+
+## Hoe de Jupyter Notebook files te openen
+
+Zorg dat Jupyter Notebooks geïnstalleerd is.
+
+Verder zijn benodigd:
+
+                versie
+                ------
+    Python      3.6 of hoger
+    Pandas      1.2.3
+    matplotlib  3.3.4
+    numpy       1.20.1
+
+
+De bestanden kunnen onder Linux als volgt geopend worden:
+
+    - Open een terminal
+
+    - cd naar de folder waar de .ipynb files te vinden zijn
+
+    - Opstarten met:
+
+            jupyter-notebook
+
+
+        of anders:
+
+            jupyter notebook
+
+
+        Klik dan op de URL die getoond wordt in de terminal (leftCTRL + linkermuisklik), als dit
+        niet automatisch gebeurt.
+
+
+
+
+
+
+BIJLAGEN
+
+# Problematiek aangaande data afkomstig van waarstaatjegemeente.nl
+
+Gemeentes die in de tussentijd zijn opgeheven, zijn met terugwerkende kracht niet terug te vinden in oude statistieken.
+
+M.a.w. men gaat uit van de actuele gemeentelijke indeling, OOK met terugwerkende kracht.
+
+
+Gedurende het jaar zijn er wijzigingen in de gemeentelijke indeling.
+
+Informatie hierover is te vinden op bv.
+    https://allecijfers.nl/definities/aantal-gemeenten-en-overzicht-gemeentelijkeherindelingen/
+
+    maar ook Wikipedia (per stad, gemeente)
+
+
+
+Het volgende is mogelijk
+    meerdere gemeenten fuseren tot een nieuwe gemeente
+    een gemeente houdt op te bestaan, en wordt verdeeld over meerdere bestaande gemeenten i.h.a.
+        of toegekend aan 1 gemeente i.h.b.
+
+En dit gebeurt redelijk vaak!
+
+Dus bij het downloaden van de gegevens van waarstaatjegemeente.nl, dient dus datum geregistreerd te worden.
+

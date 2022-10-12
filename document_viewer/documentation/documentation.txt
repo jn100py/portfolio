@@ -1,0 +1,91 @@
+# prerequisites
+
+Type
+    node --version
+    
+to check if Node.js is installed.
+
+
+Type
+    npm --version
+    
+to check if npm is installed.
+
+
+
+# Install the application
+
+Create a directory 'demoapp'
+
+Copy the folder 'document_viewer' to the new directory.
+
+Open a terminal, en cd to the folder document_viewer
+
+
+Install the following modules:
+
+npm install react@17.0.2 jquery@3.6.0 react-dom@17.0.2
+npm install react-scripts
+    
+
+
+# Start the application
+
+- server
+
+cd <path>/demoapp/document_viewer/server ; node fileserver.js
+
+
+Test if the server is up, with:
+    http://localhost:8080/texts_titles
+
+
+
+- client
+
+cd <path>/demoapp/document_viewer; npm run start
+
+
+In case of problems: 
+
+    Check if the following line can be found in package.json:
+
+    "start": "BROWSER='google-chrome-stable' react-scripts start",
+
+
+
+# Using the application
+
+The application can be used to read texts in a convenient way.
+
+See screenshots for an example.
+
+
+Screenshot   Comment
+
+   1         We start with loading a text locally from disk, with information about France.
+   
+             We use the browse button to select and load the file frankrijk_info.txt
+
+
+   2         By pressing 'Next' we open the first section.
+    
+             A section can also be opened by clicking on its title.
+
+
+   3         When we want to know which sections contain a certain word, we can enter that word in the search bar.
+   
+             If we search for 'Nederland', all sections who contain this word can be recognized by an asterisk next to the section title.
+
+
+   4         We load another text, but this text is located on a server.
+    
+             First we press the button 'Read text_titles'.
+
+             The filenames of available texts on the server are now being loaded.
+
+             We are interested in the text about Rembrandt.
+       
+             We select Rembrandt and then press the button 'Read Selected Text'.
+
+

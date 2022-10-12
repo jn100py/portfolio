@@ -1,0 +1,46 @@
+body {
+    background-color: lightblue;
+}
+
+#img_chessboard {
+  width: 42%;
+  height: auto;
+  position:absolute;
+  left: 500px;
+  top: 70px;
+  border-radius: 20px;
+}
+
+img[id*='img_piece_'] {
+  width: 3.9%;
+  height: 8.5%;
+  position:absolute;
+  z-index: 10;
+}
+
+#current_possible_moves {
+    opacity: 0.0;
+}
+
+h1 {
+    background-color:#1C6EA4;
+}
+
+p[id='message'] {
+    font-size:20;
+}
+
+table[id='table_results'] {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 50%;
+}
+
+td, th {
+    border: 1px solid black;
+}
+
+td:nth-child(3), th:nth-child(3) {
+    text-align: left;
+}

@@ -1,0 +1,50 @@
+
+The first version of the chess application was written only in Python.
+
+See folder chess_app_basic
+
+When chess.py is started, you can play chess in the terminal.
+
+Note: this code is currently being refactored and is for that reason being replaced
+by a mocked version: chess_mock.py
+
+
+
+The second version was written in Flask and uses version one as a dependency.
+
+Interaction between these two programs is as follows:
+
+    When a player makes a move in the browser, and submits this move
+    then the chess position (aka stelling) in HTML is converted to JSON
+    and send to the server.
+
+    From the controller code (controller.py), update_stelling defined in models.py is called,
+    where a new basic (chess) game is initialized with (a conversion of) the stelling information
+    and used only once, to calculate the next move (a move for black).
+
+    This results in a new stelling, which, after conversion, is send back to the client.
+    When the client receives new data the browser is refreshed and displays a new stelling.
+
+    The user (white) can then make the next move.
+
+
+
+Unit testing with pytest and Selenium was introduced in version 2.
+
+
+# Execute unit tests
+
+make sure:
+    A database file exists
+    The application is started
+
+
+Open a new terminal screen, and activate virtualenv:  source /path/to/virtenv_chess/bin/activate
+
+To execute all unit tests:
+  pytest -v </path/to>/chess/unittests
+
+
+To execute a particular unit test:
+  pytest -v </path/to>/chess/unittests -k 'test_index'
+

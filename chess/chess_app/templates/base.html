@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Game</title>
+
+        <link type="text/css" rel="stylesheet" href="{{url_for('static', filename='css/style.css') }}">
+        <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+        <script type="text/javascript"  src="{{url_for('static', filename='js/jquery-3.6.0.min.js') }}"></script>
+        <script type="text/javascript"  src="{{url_for('static', filename='js/jquery-ui-1.12.1.custom/jquery-ui.js') }}"></script>
+        <script type="text/javascript"  src="{{url_for('static', filename='js/draggable.js') }}"></script>
+        <script type="text/javascript"  src="{{url_for('static', filename='js/scripts.js') }}"></script>
+        <script type="text/javascript">
+
+            function initialise() {
+
+                var init = "{{init | safe}}";
+
+                if (init === "game") {
+
+                    var stelling = "{{ stelling | safe }}";
+
+                    var currentPossibleMoves = {{ current_possible_moves | safe }};
+                    currentPossibleMoves = JSON.stringify(currentPossibleMoves);
+                    $("#current_possible_moves").text(currentPossibleMoves); // to be used in draggable function
+
+                    buildStelling(stelling);
+
+                }
+            }
+
+            function submitMove() {
+
+                var consistent = checkStellingConsistency();
+                if (consistent === 0) {
+                    return;
+                }
+
+                var stringStelling = "";
+                $("img[id*='img_piece_']").each(function () {
+
+                    var id = $(this).attr('id');
+                    var posLeft = $(this).offset().left;
+                    var posTop = $(this).offset().top;
+                    stringStelling += id + "," + posLeft + "," + posTop + ",,";
+
+                });
+
+                var xhr = new XMLHttpRequest();
+                xhr.open("POST", "/play/{{ game_id }}", true);
+                xhr.setRequestHeader('Content-Type', 'application/json');
+                xhr.send(JSON.stringify({
+                    current_stelling: stringStelling
+                }));
+                xhr.onreadystatechange = function () {
+                    if (xhr.readyState === XMLHttpRequest.DONE) {
+
+                        var obj = JSON.parse(xhr.responseText);
+
+                        $("#nr_moves").text(obj.nr_moves);
+                        $("#message").text(obj.message);
+                        $("#current_possible_moves").text(obj.current_possible_moves);    // to be used in draggable function
+
+                        $('img[id*="img_piece_"]').removeClass('on_board');
+                        buildStelling(obj.stelling);
+
+                        var re = new RegExp("^(Stalemate|Checkmate).*$");
+                        if (re.test(obj.message)) {
+
+                            var endGameInfo = "-1A".replace("A", obj.message);
+
+                            var xhr2 = new XMLHttpRequest();
+                            xhr2.open("POST", "/play/{{ game_id }}", true);
+                            xhr2.setRequestHeader('Content-Type', 'application/json');
+                            xhr2.send(JSON.stringify({
+                                current_stelling: endGameInfo
+                            }));
+
+                        }
+                    }
+                };
+            }
+
+        </script>
+
+    </head>
+    <body onload="initialise()">
+
+            {% block body %}
+
+            {% endblock %}
+
+    </body>
+</html>

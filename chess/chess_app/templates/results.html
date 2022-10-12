@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block body %}
+
+<h1>Results</h1>
+
+<table id="table_results">
+<tr>
+    <th>Game Nr</th>
+    <th>Play Date</th>
+    <th>Result</th>
+    <th>Nr Moves</th>
+</tr>
+{% for game in games %}
+<tr>
+    <td>{{game.id}}</td>
+    <td>{{game.date}}</td>
+    <td>{{game.result}}</td>
+    <td>{{game.nr_moves}}</td>
+</tr>
+{% endfor %}
+</table>
+
+{% endblock %}

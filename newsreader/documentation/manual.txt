@@ -1,0 +1,260 @@
+# Introduction
+
+The newsreader application is an application to read online news.
+
+It downloads news items of your favorite newspapers through RSS-feeds and displays them in a convenient way.
+
+Filters can be set, such that only the news items one is interested in will be shown.
+
+Furthermore, each last visit to a particular newspaper is memorized, and a next visit to the same
+newspaper will only show unread news items.
+
+
+Below will be described how to install and use this application.
+
+
+
+# Installation
+
+- in Linux
+
+Python version 3.6 or higher is required
+
+
+A list of required Python packages can be found in /installation/requirements.txt
+
+-- installation of required Python packages without virtual environment
+
+    pip install -r </path/to>/newsreader/installation/requirements.txt
+
+-- installation of required Python packages in a virtual environment
+
+First create a virtual environment:
+
+    Open a terminal.
+
+    cd to a folder where you like to create a new virtual environment.
+
+    Create a virtual environment:
+        python3 -m venv virtenv_newsreader
+
+    Activate your virtualenv:
+        source </path/to>/virtenv_newsreader/bin/activate
+
+Then type: pip install -r </path/to>/newsreader/installation/requirements.txt
+
+
+
+
+# Configuration
+
+Most settings can be found in the file: /config/constants.py
+
+
+## General settings
+
+
+- RSS_FEEDS
+
+the URLs to the RSS-feeds of your favorite newspapers can be set here
+
+for example, add
+
+    'nu': [
+        'https://www.nu.nl/rss/Algemeen',
+        'https://www.nu.nl/rss/Economie',
+        'https://www.nu.nl/rss/Wetenschap',
+        'https://www.nu.nl/rss/Tech',
+        'https://www.nu.nl/rss/Gezondheid',
+],
+
+to the dictionary.
+
+
+
+
+- NEWSPAPER2LANGUAGE
+
+Don't forget to register the language of the newly added newspaper
+
+
+
+
+- DEFAULT_PAPER
+
+Set the newspaper that you would like to read by default.
+
+
+
+
+
+- TESTMODE
+
+This setting is used by developers only, and should be set to False
+
+
+
+## Configuration with respect to date and time
+
+- Introduction
+
+Each time a newspaper is visited, the last datetime of the visit will be stored in a cookie
+and the next time this newspaper is visited again it will be used in a datetime filter.
+
+So only unread news items will be displayed.
+
+If we visit the same newspaper more than once on a day, news items that have already been read, will
+not be shown.
+
+When a cookie is not set, by default all news items of this day are shown.
+
+The next visit will use the cookie, and if the cookie is a day old, news items of yesterday,
+since the last datetime of visit will also been shown.
+
+In this way it is guaranteed that news items will not be missed.
+
+When the cookie is older than one day, the filter is set to yesterday meaning that news items older
+than yesterday will not be shown, even if they are unread.
+
+A cookie has a lifetime of 15 days
+
+
+- Settings in constants.py
+-- timezone
+
+examples:
+    MY_TIMEZONE = 'Europe/Amsterdam'
+or
+    MY_TIMEZONE = 'Asia/Jakarta'
+
+
+
+- Configuration of Firefox
+
+
+    Browse to Settings -> Privacy & Security
+
+        The following settings should be configured:
+
+            History:
+                set to: use custom settings for history
+
+                Properly set: Clear history when Firefox closes.
+
+            Cookies and Site Data: Delete cookies and site data when Firefox is closed
+                don't delete cookie at all or, set exceptions under Manage Exceptions.
+
+
+
+- Configuration of Bleachbit
+
+Programs like Bleachbit can remove cookies. Check your settings if you don't want this.
+
+
+
+
+## Configuration of the filters
+
+If the user is not interested in news items of a certain topic, keywords related to the topic
+can be stored in a dictionary.
+
+Example.
+If a user is not interested in news items related to tennis,
+the following keywords can put inside a dictionary:
+
+    tennis
+    Roland Garros
+    Wimbledon
+    US Open
+    Federer
+    Kim Clijsters
+
+Note, a dictionary filename should conform to the following format:
+    dictionary_EN.txt
+
+for another language replace EN, with the country code.
+
+
+
+As dictionaries will be updated on a regular basis this might lead to the situation that the filter is set too strict.
+
+For example
+If a user is not interested in tennis, but is interested in the Olympics,
+it might be he or she is also interested in the Olympic tennis event.
+
+The solution to this is to make use of the exception dictionary.
+
+Given this example, we could add the following terms in the exception dictionary:
+
+    Olympic Games
+    Olympics
+    Olympic
+
+
+A news item about the Olympic tennis event will not be filtered with these settings.
+
+Note, an exception dictionary filename should conform to the following format:
+    dictionary_EN_exception.txt
+
+
+
+
+
+# How to start the application
+
+First activate your virtualenv (if you use one)
+
+    source </path/to>/virtenv_newsreader/bin/activate
+
+
+Then start the application as follows
+
+cd <path/to/>newsreader; export FLASK_APP=main.py; export FLASK_ENV=development; flask run
+
+
+
+
+
+# How to use the application
+
+- Choose an URL
+
+Open the browser and enter the following URL: http://127.0.0.1:5000/
+
+This will load and display the news items for the default newspaper.
+
+
+To read another newspaper, type:
+
+    http://127.0.0.1:5000/<newspaper name>
+
+for example:
+
+    http://127.0.0.1:5000/volkskrant
+
+
+
+
+- Read newspaper without (dictionary) filter
+
+Type for example:
+
+    http://127.0.0.1:5000/nofilter/volkskrant
+
+Note that the news item list is still being filtered on date.
+
+
+
+
+
+- Read newspaper of today (no datetime filter) by removing the cookie
+
+In Firefox cookies can be removed as follows:
+    press F12 an browse to storage -> cookies
+
+Right mouse click and select Delete
+
+When a cookie is not set for a certain newspaper, then all news items of today will be shown in the 'nofilter' mode
+
+Otherwise, the dictionary filter is used, to filter news items.
+
