@@ -1,0 +1,2002 @@
+position,title,artist,year
+1,Bohemian Rhapsody,Queen,1975
+2,Hotel California,Eagles,1977
+3,Piano Man,Billy Joel,1974
+4,Stairway To Heaven,Led Zeppelin,1971
+5,Wish You Were Here,Pink Floyd,1975
+6,Child In Time,Deep Purple,1970
+7,Black,Pearl Jam,1992
+8,Africa,Toto,1982
+9,Fix You,Coldplay,2005
+10,Avond,Boudewijn De Groot,1997
+11,November Rain,Guns N' Roses,1992
+12,Love Of My Life,Queen,1986
+13,Nothing Else Matters,Metallica,1992
+14,Comfortably Numb,Pink Floyd,1979
+15,Brothers In Arms,Dire Straits,1985
+16,Imagine,John Lennon,1971
+17,Heroes,David Bowie,1976
+18,Shine On You Crazy Diamond,Pink Floyd,1975
+19,Thunderstruck,AC/DC,1990
+20,Sultans Of Swing,Dire Straits,1978
+21,The River,Bruce Springsteen,1981
+22,Hurt,Johnny Cash,2002
+23,One,Metallica,1994
+24,Mag Ik Dan Bij Jou,Claudia De Breij,2011
+25,Purple Rain,Prince & The Revolution,1984
+26,The Sound Of Silence,Simon & Garfunkel,1966
+27,Radar Love,Golden Earring,1973
+28,Oceaan,Racoon,2012
+29,Paradise By The Dashboard Light,Meat Loaf,1978
+30,Innuendo,Queen,1991
+31,Zoutelande,Bløf ft. Geike,2017
+32,Smells Like Teen Spirit,Nirvana,1991
+33,Somebody To Love,Queen,1976
+34,Sweet Child O' Mine,Guns N' Roses,1987
+35,Just Breathe,Pearl Jam,2009
+36,Viva La Vida,Coldplay,2008
+37,Don't Stop Me Now,Queen,1979
+38,Under Pressure,David Bowie & Queen,1981
+39,The Sound Of Silence,Disturbed,2016
+40,Telegraph Road,Dire Straits,1982
+41,In The Air Tonight,Phil Collins,1981
+42,Go Your Own Way,Fleetwood Mac,1977
+43,Back To Black,Amy Winehouse,2007
+44,School,Supertramp,1974
+45,The Scientist,Coldplay,2002
+46,God Only Knows,Beach Boys,1966
+47,In The End,Linkin Park,2000
+48,Paint It Black,Rolling Stones,1966
+49,Sympathy For The Devil,Rolling Stones,1973
+50,One,U2,1992
+51,Mr. Blue Sky,Electric Light Orchestra,1978
+52,With Or Without You,U2,1987
+53,Let It Be,Beatles,1970
+54,Another Brick In The Wall,Pink Floyd,1979
+55,Alive,Pearl Jam,1992
+56,Brabant,Guus Meeuwis,2003
+57,Clocks,Coldplay,2003
+58,Riders On The Storm,Doors,1971
+59,Highway To Hell,AC/DC,1979
+60,Over De Muur,Klein Orkest,1984
+61,Bridge Over Troubled Water,Simon & Garfunkel,1970
+62,Killing In The Name,Rage Against The Machine,1992
+63,Lose Yourself,Eminem,2002
+64,Het Dorp,Wim Sonneveld,1974
+65,Old And Wise,Alan Parsons Project,1982
+66,Under The Bridge,Red Hot Chili Peppers,1991
+67,Dancing Queen,ABBA,1976
+68,Somebody To Love (Live),George Michael & Queen,1993
+69,Sunday Bloody Sunday,U2,1985
+70,Hey Jude,Beatles,1968
+71,A Forest,Cure,1980
+72,Enter Sandman,Metallica,1991
+73,Whole Lotta Rosie,AC/DC,1978
+74,Who Wants To Live Forever,Queen,1986
+75,Sorry,Kensington,2016
+76,Angels,Robbie Williams,1998
+77,Iron Sky,Paolo Nutini,2014
+78,Tears In Heaven,Eric Clapton,1992
+79,Angie,Rolling Stones,1973
+80,Private Investigations,Dire Straits,1982
+81,Space Oddity,David Bowie,1969
+82,Billie Jean,Michael Jackson,1983
+83,The Pretender,Foo Fighters,2007
+84,Losing My Religion,R.E.M.,1991
+85,Perfect,Ed Sheeran,2017
+86,House Of The Rising Sun,Animals,1964
+87,Creep,Radiohead,1992
+88,Killer Queen,Queen,1974
+89,Master Of puppets,Metallica,1986
+90,The Dock Of The Bay,Otis Redding,1968
+91,Cold Little Heart,Michael Kiwanuka,2016
+92,Fool's Overture,Supertramp,1977
+93,Goodnight Saigon,Billy Joel,1983
+94,Papa,Stef Bos,1991
+95,Chasing Cars,Snow Patrol,2006
+96,Bitter Sweet Symphony,The Verve,1997
+97,Someone Like You,Adele,2011
+98,Uprising,Muse,2009
+99,Gimme Shelter,Rolling Stones,1969
+100,Wake Me Up,Avicii ft. Aloe Blacc,2013
+101,Het Regent Zonnestralen,Acda & De Munnik,1998
+102,Blackbird,Beatles,1968
+103,Here Comes The Sun,Beatles,1969
+104,Suspicious Minds,Elvis Presley,1969
+105,Jolene,Dolly Parton,1974
+106,Pastorale,Ramses Shaffy & Liesbeth List,1969
+107,Wonderwall,Oasis,1995
+108,The Show Must Go On,Queen,1991
+109,Earth Song,Michael Jackson,1995
+110,Dochters,Marco Borsato,2008
+111,Nights In White Satin,Moody Blues,1968
+112,Where The Streets Have No Name,U2,1987
+113,Thriller,Michael Jackson,1983
+114,Californication,Red Hot Chili Peppers,2000
+115,Gotta Catch 'M All (Pokemon Theme Song),Jason Paige,1997
+116,Yellow,Coldplay,2000
+117,September,"Earth, Wind & Fire",1979
+118,I Want To Break Free,Queen,1984
+119,Smoke On The Water,Deep Purple,1973
+120,Kleine Jongen,André Hazes,1990
+121,Don't Look Back In Anger,Oasis,1996
+122,Yesterday,Beatles,1965
+123,Nobody's Wife,Anouk,1997
+124,Paradise City,Guns N' Roses,1989
+125,Belfast Child,Simple Minds,1989
+126,Wuthering Heights,Kate Bush,1978
+127,Hallelujah,Leonard Cohen,1984
+128,I Still Haven't Found What I'm Looking For,U2,1987
+129,Zombie,Cranberries,1994
+130,Stil In Mij,Van Dik Hout,1994
+131,Jeanny,Falco,1986
+132,Knights Of Cydonia,Muse,2006
+133,Paranoid,Black Sabbath,1970
+134,Perfect Day,Lou Reed,1972
+135,Man In The Mirror,Michael Jackson,1988
+136,Come As You Are,Nirvana,1991
+137,All Along The Watchtower,Jimi Hendrix Experience,1968
+138,Radio Ga Ga,Queen,1984
+139,The Last Resort,Eagles,1976
+140,We Will Rock You,Queen,1977
+141,Whole Lotta Love ,Led Zeppelin,1969
+142,When The Lady Smiles,Golden Earring,1984
+143,Barcelona,Freddie Mercury & Montserrat Caballé,1987
+144,Make You Feel My Love,Adele,2008
+145,Sterrenstof,De Jeugd Van Tegenwoordig,2010
+146,A Sky Full Of Stars,Coldplay & Avicii,2014
+147,Hallelujah,Jeff Buckley,1994
+148,Summer Of '69,Bryan Adams,1990
+149,Enjoy The Silence,Depeche Mode,1990
+150,Hello,Adele,2015
+151,Sorry,Kyteman,2009
+152,Leef,André Hazes Jr.,2016
+153,A Whiter Shade Of Pale,Procol Harum,1967
+154,The Boxer,Simon & Garfunkel,1969
+155,Fragile,Sting,1988
+156,Jeremy,Pearl Jam,1991
+157,The Chain,Fleetwood Mac,1977
+158,Money For Nothing,Dire Straits,1985
+159,Desperado,Eagles,1973
+160,Hurricane,Bob Dylan,1975
+161,Laat Me,Ramses Shaffy,1978
+162,Don't Stop Believin',Journey,1981
+163,Rolling In The Deep,Adele,2010
+164,Have You Ever Seen The Rain,Creedence Clearwater Revival,1971
+165,Du Hast,Rammstein,1997
+166,Everybody Hurts,R.E.M.,1993
+167,Streets Of Philadelphia,Bruce Springsteen,1994
+168,Sonne,Rammstein,2001
+169,While My Guitar Gently Weeps,Beatles,1968
+170,Everlong,Foo Fighters,1997
+171,Bloed Zweet En Tranen,André Hazes,2002
+172,Fear Of The Dark,Iron Maiden,1993
+173,The Unforgettable Fire,U2,1984
+174,She,Charles Aznavour,1974
+175,Saturday Night,Herman Brood & His Wild Romance,1978
+176,The Winner Takes It All,ABBA,1980
+177,The Rose,Bette Midler,1980
+178,Mr. Brightside,The Killers,2005
+179,Voor Haar,Frans Halsema,1977
+180,Proud Mary,Ike & Tina Turner,1971
+181,One,Mary J Blige & U2,2006
+182,(You Make Me Feel Like A) Natural Woman,Aretha Franklin,1967
+183,Street Spirit (Fade Out),Radiohead,1994
+184,Skyfall,Adele,2012
+185,Lola Montez,Volbeat,2013
+186,Love You More,Racoon,2005
+187,Roxanne,Police,1979
+188,Fields Of Gold,Sting,1993
+189,Dream On,Aerosmith,1973
+190,I Put A Spell On You,Creedence Clearwater Revival,1972
+191,Radioactive,Imagine Dragons,2012
+192,"Take Me Home, Country Roads",John Denver,1971
+193,Fast Car,Tracy Chapman,1988
+194,Bad,U2,1984
+195,Kayleigh,Marillion,1985
+196,Englishman In New York,Sting,1988
+197,Another One Bites The Dust,Queen,1980
+198,Onderweg,Abel,2000
+199,Bed Of Roses,Bon Jovi,1993
+200,Chop Suey!,System Of A Down,2001
+201,Beautiful Day,U2,2000
+202,Knockin' On Heaven's Door,Guns N' Roses,1992
+203,The End,Doors,1967
+204,Careless Whisper,George Michael,1984
+205,Shape Of You,Ed Sheeran,2017
+206,Ice Queen,Within Temptation,2001
+207,One Day Like This,Elbow,2008
+208,Seven Nation Army,White Stripes,2003
+209,Music,John Miles,1976
+210,Omarm,Bløf,2003
+211,Iedereen Is Van De Wereld,Scene,1991
+212,Don't You (Forget About Me),Simple Minds,1985
+213,Fortunate Son,Creedence Clearwater Revival,1969
+214,Papillon,Editors,2009
+215,Born To Run,Bruce Springsteen,1975
+216,We Are The Champions,Queen,1977
+217,Oude Maasweg,Amazing Stroopwafels,1982
+218,These Are The Days Of Our Lives,Queen,1991
+219,What's Going On,Marvin Gaye,1971
+220,Thinking Out Loud,Ed Sheeran,2014
+221,Numb,Linkin Park,2003
+222,Angel Of Death,Slayer,1986
+223,Still Got The Blues ,Gary Moore,1990
+224,No One Knows,Queens Of The Stone Age,2002
+225,Kronenburg Park,Frank Boeijen,1985
+226,Ace Of Spades,"Motörhead
+",1980
+227,Old Man,Neil Young,1972
+228,Welcome To The Jungle,Guns N' Roses,1987
+229,Dreams,Fleetwood Mac,1977
+230,Another 45 Miles,Golden Earring,1969
+231,The Load Out / Stay,Jackson Browne,1977
+232,Lithium,Nirvana,1991
+233,Zeg Me Dat Het Niet Zo Is,Frank Boeijen,1990
+234,Hey Brother,Avicii,2013
+235,Karma Police,Radiohead,1997
+236,Kryptonite,3 Doors Down,2000
+237,Lightning Crashes,Live,1995
+238,Three Little Birds,Bob Marley & The Wailers,1977
+239,I'm On Fire,Bruce Springsteen,1985
+240,Heart Of Gold,Neil Young,1972
+241,In The Ghetto,Elvis Presley,1969
+242,Beat It,Michael Jackson,1983
+243,Deurdonderen (Live),Normaal,1982
+244,Bad Moon Rising,Creedence Clearwater Revival,1969
+245,Respect,Aretha Franklin,1967
+246,Me And Bobby McGee,Janis Joplin,1971
+247,A Day In The Life,Beatles,1967
+248,Set Fire To The Rain,Adele,2011
+249,I See Fire,Ed Sheeran,2014
+250,Zing Vecht Huil Bid Lach Werk En Bewonder,Ramses Shaffy,1971
+251,Ring Of Fire,Johnny Cash,1963
+252,Society,Eddie Vedder,2007
+253,Boulevard Of Broken Dreams,Green Day,2004
+254,Zij Gelooft In Mij,André Hazes,1981
+255,Livin' On A Prayer,Bon Jovi,1986
+256,Testament,Boudewijn De Groot,1967
+257,Your Song,Elton John,1971
+258,Pride (In The Name Of Love),U2,1984
+259,Stan,Eminem & Dido,2000
+260,Levels,Avicii,2011
+261,Black Hole Sun,Soundgarden,1994
+262,Layla (Unplugged),Eric Clapton,1992
+263,Dust In The Wind,Kansas,1978
+264,Run,Snow Patrol,2004
+265,Walk Of Life,Dire Straits,1985
+266,Sad Man´s Tongue,Volbeat,2007
+267,Back In Black,AC/DC,1980
+268,You Can't Always Get What You Want,Rolling Stones,1969
+269,No Woman No Cry (Live),Bob Marley & The Wailers,1975
+270,She's Always A Woman,Billy Joel,1978
+271,Holiday In Spain,Bløf & Counting Crows,2004
+272,Fade To Black,Metallica,1984
+273,Sara,Fleetwood Mac,1980
+274,What About Us,Pink,2017
+275,Kashmir,Led Zeppelin,1975
+276,Haus Am See,Peter Fox,2009
+277,Sex On Fire,Kings Of Leon,2008
+278,Ne Me Quitte Pas,Jacques Brel,1959
+279,Graceland,Paul Simon,1986
+280,I'm Gonna Be (500 Miles),Proclaimers,1988
+281,The Man With The Child In His Eyes,Kate Bush,1978
+282,Nothing Compares 2u,Sinead O'Connor,1990
+283,Ruthless Queen,Kayak,1979
+284,Sweet Home Alabama,Lynyrd Skynyrd,1974
+285,Do I Wanna Know,Arctic Monkeys,2013
+286,Every Breath You Take,Police,1983
+287,When We Were Young,Adele,2015
+288,Dancing In The Dark,Bruce Springsteen,1985
+289,Worn Down Piano,Mark & Clark Band,1977
+290,Psycho,Muse,2015
+291,November,Rowwen Hèze,2000
+292,Smooth Criminal,Michael Jackson,1988
+293,Zo Stil,Bløf,2012
+294,Wind Of Change,Scorpions,1991
+295,Don't Give Up,Peter Gabriel & Kate Bush,1986
+296,Formidable,Stromae,2013
+297,Harder Dan Ik Hebben Kan,Bløf,1999
+298,Forever Young,Alphaville,1984
+299,Iris,Goo Goo Dolls,1999
+300,I Say A Little Prayer,Aretha Franklin,1968
+301,Paranoid Android,Radiohead,1997
+302,California Dreamin',The Mamas & The Papas,1966
+303,Hold The Line,Toto,1979
+304,(I Can't Get No) Satisfaction,Rolling Stones,1965
+305,The Unforgiven,Metallica,1991
+306,The Cave,Mumford & Sons,2010
+307,Echoes,Pink Floyd,1971
+308,Dat ik je Mis,Maaike Ouboter,2013
+309,99 Luftballons,Nena,1983
+310,Insomnia,Faithless,1996
+311,Another Love,Tom Odell,2012
+312,I Was Made For Loving You,KISS,1979
+313,More Than A Feeling,Boston,1977
+314,Troy,Sinead O'Connor,1987
+315,The Day Before You Came,ABBA,1982
+316,Another Day In Paradise,Phil Collins,1989
+317,Valerie,Mark Ronson ft. Amy Winehouse,2007
+318,White Rabbit,Jefferson Airplane,1967
+319,Sweet Caroline,Neil Diamond,1969
+320,Against All Odds (Take A Look At Me Now),Phil Collins,1984
+321,Take On Me,A-Ha,1985
+322,Can't Help Falling In Love With You,Elvis Presley,1961
+323,Demons,Imagine Dragons,2014
+324,Atemlos Durch Die Nacht,Helene Fischer,2013
+325,Mamma Mia,ABBA,1975
+326,Du,Peter Maffay,1971
+327,Take Me To Church,Hozier,2014
+328,In Your Arms,Chef'Special,2014
+329,I Walk The Line,Johnny Cash,1957
+330,Oerend Hard,Normaal,1977
+331,She Sells Sanctuary,Cult,1986
+332,The Man Who Sold The World (unplugged),Nirvana,1994
+333,Time,Pink Floyd,1973
+334,Streets,Kensington,2014
+335,Free Bird ,Lynyrd Skynyrd,1974
+336,Believer,Imagine Dragons,2017
+337,This Is What It Feels Like,Armin van Buuren ft. Trevor Guthrie,2013
+338,Somewhere Only We Know,Keane,2004
+339,Sweet Dreams (Are Made Of This),Eurythmics,1983
+340,Little Lion Man,Mumford & Sons,2010
+341,Castle On The Hill,Ed Sheeran,2017
+342,Mama,Genesis,1983
+343,Human,Rag'n'Bone Man,2016
+344,De Vlieger,André Hazes,1977
+345,My Immortal,Evanescence,2003
+346,Uptown Funk!,Mark Ronson ft. Bruno Mars,2014
+347,A Horse With No Name,America,1972
+348,With A Little Help From My Friends,Joe Cocker,1968
+349,Jesus To A Child,George Michael,1996
+350,Redemption Song,Bob Marley & The Wailers,1980
+351,Life On Mars,David Bowie,1973
+352,Bat Out Of Hell,Meat Loaf,1977
+353,Als Ze Er Niet Is,De Dijk,1994
+354,Blue Monday,New Order,1983
+355,One Of These Nights,Eagles,1975
+356,The Logical Song,Supertramp,1979
+357,Starman,David Bowie,1972
+358,Twilight Zone,Golden Earring,1982
+359,When Doves Cry,Prince & the Revolution,1984
+360,Whatever It Takes,Imagine Dragons,2017
+361,Leave The Light On,Beth Hart,2004
+362,Money,Pink Floyd,1973
+363,Window Of My Eyes,Cuby & the Blizzards,1968
+364,Crazy Little Thing Called Love,Queen,1979
+365,Silent Lucidity,Queensrÿche,1991
+366,Hey Joe,Jimi Hendrix Experience,1967
+367,War,Kensington,2014
+368,Rockin' In The Free World,Neil Young,1989
+369,Rehab,Amy Winehouse,2006
+370,Brown Eyed Girl,Van Morrison,1967
+371,My Way,Frank Sinatra,1969
+372,Romeo And Juliet,Dire Straits,1980
+373,Can I Play With Madness,Iron Maiden,1988
+374,Op Fietse,Skik,1997
+375,You Shook Me All Night Long,AC/DC,1980
+376,Snow (Hey Oh),Red Hot Chili Peppers,2006
+377,Baba O'Riley,Who,1971
+378,Happy,Pharrell Williams,2013
+379,Learn to fly,Foo Fighters,2000
+380,Paradise,Coldplay,2011
+381,Heading Up High,Armin van Buuren ft. Kensington,2015
+382,Liefs Uit Londen,Bløf,1998
+383,Blauw,Scene,1991
+384,Aan De Kust,Bløf,1999
+385,Eagle,ABBA,1978
+386,Mother Earth,Within Temptation,2002
+387,Stop Loving You,Toto,1988
+388,Penny Lane,Beatles,1967
+389,Treur Niet,Diggy Dex ft. JW Roy,2015
+390,Smokers Outside The Hospital Doors,Editors,2007
+391,Take It Easy,Eagles,1972
+392,Dirty Diana,Michael Jackson,1987
+393,Basket Case,Green Day,1994
+394,Suzanne,Leonard Cohen,1968
+395,Niemand In De Stad,De Dijk,1989
+396,Folsom Prison Blues,Johnny Cash,1968
+397,Vienna,Ultravox,1981
+398,Verdronken Vlinder,Boudewijn De Groot,1966
+399,Feel,Robbie Williams,2002
+400,All Of Me,John Legend,2013
+401,Love Will Tear Us Apart,Joy Division,1980
+402,Whiskey In The Jar,Metallica,1998
+403,I Want To Know What Love Is,Foreigner,1984
+404,The Whole Of The Moon,Waterboys,1986
+405,Lopen Tot De Zon Komt,Acda & De Munnik,1997
+406,Solsbury Hill,Peter Gabriel,1977
+407,Une Belle Histoire,Michel Fugain,1972
+408,Message In A Bottle,Police,1979
+409,Poison,Alice Cooper,1989
+410,I Would Stay,Krezip,2000
+411,Dansen Aan Zee,Bløf,2000
+412,Empire State Of Mind (Part 2),Alicia Keys,2009
+413,Waterloo,ABBA,1974
+414,Vincent,Don McLean,1972
+415,Geef Mij Je Angst,André Hazes,1983
+416,Estranged,Guns N' Roses,1994
+417,Born In The Usa,Bruce Springsteen,1985
+418,I Am...I Said,Neil Diamond,1971
+419,The A Team,Ed Sheeran,2011
+420,Margherita,Marco Borsato,1996
+421,Plug In Baby,Muse,2001
+422,I Want It All,Queen,1989
+423,Samba Pa Ti,Santana,1970
+424,Immigrant Song,Led Zeppelin,1971
+425,Don't Let The Sun Go Down On Me,George Michael & Elton John,1991
+426,The Final Countdown,Europe,1986
+427,De Vondeling Van Ameland,Boudewijn De Groot,2004
+428,New Year's Day,U2,1983
+429,Let Her Go,Passenger,2012
+430,Wake Me Up When September Ends,Green Day,2005
+431,Geef Mij Je Angst,Guus Meeuwis,2005
+432,Do I Ever,Kensington,2016
+433,Patience,Guns N' Roses,1989
+434,Bliss,Muse,2001
+435,They Don't Care About Us,Michael Jackson,1996
+436,Halo,Beyoncé,2009
+437,Feel Good Inc.,Gorillaz,2005
+438,Thank You For The Music,ABBA,1978
+439,Chandelier,Sia,2013
+440,Kiss From A Rose,Seal,1995
+441,Eye In The Sky,Alan Parsons Project,1982
+442,Supermassive Black Hole,Muse,2006
+443,De Peel In Brand,Rowwen Hèze,2005
+444,The Great Gig In The Sky,Pink Floyd,1972
+445,Wicked Game,Chris Isaak,1991
+446,Rainbow In The Sky,DJ Paul Elstak,1995
+447,I Will Always Love You,Whitney Houston,1992
+448,Good Vibrations,Beach Boys,1966
+449,Born Slippy,Underworld,1996
+450,Even Flow,Pearl Jam,1991
+451,Ain't No Sunshine,Bill Withers,1971
+452,Halo Of Flies,Alice Cooper,1973
+453,God Is A DJ,Faithless,1998
+454,Somebody That I Used To Know,Gotye ft. Kimbra,2011
+455,Wonderful Tonight,Eric Clapton,1977
+456,Tribute,Tenacious D,2003
+457,Unfinished Sympathy,Massive Attack,1991
+458,Thunder,Imagine Dragons,2017
+459,Think (Blues Brothers Version),Aretha Franklin,1980
+460,Time In A Bottle,Jim Croce,1972
+461,32 Jaar (Sinds 1 Dag Of 2),Doe Maar,1981
+462,Golden Brown,Stranglers,1982
+463,Birds,Anouk,2013
+464,Still Loving You,Scorpions,1987
+465,Halt Mich,Herbert Grönemeyer,1988
+466,Starlight,Muse,2006
+467,She,Elvis Costello,1999
+468,Everywhere,Fleetwood Mac,1987
+469,It's My Life,Bon Jovi,2000
+470,Laat Me / Vivre,Alderliefste & Ramses Shaffy & Liesbeth List,2005
+471,Dansen Op De Vulkaan,De Dijk,1987
+472,Lost,Anouk,2005
+473,I'm Not In Love,10cc,1975
+474,Hammer To Fall,Queen,1984
+475,Can't Stop The Feeling!,Justin Timberlake,2016
+476,Papaoutai,Stromae,2013
+477,Duurt te lang,Davina Michelle,2018
+478,Thunder Road,Bruce Springsteen,1975
+479,Fantasy,"Earth, Wind & Fire",1978
+480,Total Eclipse Of The Heart,Bonnie Tyler,1983
+481,Stayin' Alive,Bee Gees,1978
+482,Rocket Man,Elton John,1972
+483,Breaking The Habit,Linkin Park,2004
+484,Last Christmas,Wham,1984
+485,"Welterusten, Mijnheer De President",Boudewijn De Groot,1966
+486,Tonight (Live),David Bowie & Tina Turner,1988
+487,Papa Was A Rolling Stone,Temptations,1972
+488,She's Not There,Santana,1978
+489,Like A Hurricane,Neil Young,1977
+490,Mag Het Licht Uit,De Dijk,1987
+491,Superstition,Stevie Wonder,1973
+492,Zeg Maar Niets Meer,André Hazes,1982
+493,Walk,Foo Fighters,2011
+494,Linger,Cranberries,1993
+495,Ben,Michael Jackson,1972
+496,Scar Tissue,Red Hot Chili Peppers,1999
+497,Numb/Encore,Linkin Park & Jay Z,2004
+498,I Will Wait,Mumford & Sons,2012
+499,Strong,London Grammar,2014
+500,Landslide,Fleetwood Mac,1975
+501,Million Years Ago,Adele,2016
+502,Let's Dance,David Bowie,1983
+503,'k Heb Je Lief,Paul de Leeuw,1997
+504,Under The Pressure,War On Drugs,2014
+505,Lay All Your Love On Me,ABBA,1980
+506,Amigo,Chef'Special,2016
+507,A Kind Of Magic,Queen,1986
+508,A Boy Named Sue,Johnny Cash,1969
+509,"Ain't Got No, I Got Life",Nina Simone,1968
+510,Freedom! '90,George Michael,1990
+511,Rosanna,Toto,1982
+512,Where Did You Sleep Last Night (unplugged),Nirvana,1994
+513,Our House,"Crosby, Stills, Nash & Young",1970
+514,Baker Street,Gerry Rafferty,1978
+515,Michel,Anouk,2000
+516,Time To Say Goodbye,Andrea Bocelli & Sarah Brightman,1997
+517,Down Under,Men At Work,1982
+518,Is She Really Going Out With Him? (Live),Joe Jackson,1988
+519,Always On My Mind,Elvis Presley,1972
+520,Teardrop,Massive Attack,1998
+521,Sad But True,Metallica,1992
+522,Cowboys And Angels,George Michael,1991
+523,Mutter,Rammstein,2001
+524,Mrs. Robinson,Simon & Garfunkel,1968
+525,Annie's Song,John Denver,1976
+526,You'll Be In My Heart,Phil Collins,1999
+527,Don't Give Up The Fight,Racoon,2011
+528,Dreadlock Holiday,﻿10cc,1978
+529,Light My Fire,Doors,1967
+530,I Don't Want To Miss A Thing,Aerosmith,1997
+531,What A Wonderful World,Louis Armstrong,1968
+532,Chan Chan,Buena Vista Social Club,1997
+533,Try,Pink,2012
+534,9 Crimes,Damien Rice,2006
+535,Have I Told You Lately,Van Morrison,1989
+536,Like The Way I Do,Melissa Etheridge,1989
+537,The Power Of Love,Frankie Goes To Hollywood,1984
+538,Holding Back The Years,Simply Red,1985
+539,Ren Lenny Ren,Acda & De Munnik,2002
+540,Who'll Stop The Rain,Creedence Clearwater Revival,1970
+541,One Step Beyond,Madness,1979
+542,American Pie,Don McLean,1972
+543,Ironic,Alanis Morissette,1996
+544,Rood,Marco Borsato,2006
+545,Lola (Live),Kinks,1980
+546,Sorry,Nothing But Thieves,2017
+547,The Man Who Can't Be Moved,The Script,2008
+548,Zonder Jou,Paul de Leeuw & Simone Kleinsma,1995
+549,Sign O'The Times,Prince,1987
+550,High Hopes,Pink Floyd,1994
+551,Changes,2Pac,1998
+552,Wild Horses,Rolling Stones,1971
+553,Narcotic,Liquido,1998
+554,Little Black Submarines,Black Keys,2011
+555,Dat Komt Door Jou,Guus Meeuwis,2009
+556,(Don't Fear) The Reaper,Blue Öyster Cult,1976
+557,Dreamer,Supertramp,1974
+558,Tusk,Fleetwood Mac,1979
+559,Groot Hart,De Dijk,1985
+560,Gimme Gimme Gimme,ABBA,1979
+561,Running Up That Hill,Kate Bush,1985
+562,Toen Ik Je Zag,Hero,1997
+563,Everything Now,Arcade Fire,2017
+564,I Want You,Elvis Costello,1986
+565,Sometimes It Snows In April,Prince & The Revolution,1986
+566,Eleanor Rigby,Beatles,1966
+567,Tougher Than The Rest,Bruce Springsteen,1987
+568,Hard Sun,Eddie Vedder,2007
+569,Come Together,Beatles,1969
+570,American idiot,Green Day,2004
+571,Leningrad,Billy Joel,1989
+572,Jailhouse Rock,Elvis Presley,1957
+573,My Home Town,Bruce Springsteen,1986
+574,Clint Eastwood,Gorillaz,2001
+575,Into My Arms,Nick Cave & The Bad Seeds,1996
+576,Diamonds,Boxer Rebellion,2013
+577,"Non, Je Ne Regrette Rien",Édith Piaf ,1961
+578,Otherside,Red Hot Chili Peppers,2000
+579,Sign Of The Times,Harry Styles,2017
+580,The Boys Of Summer,Don Henley,1985
+581,La Grange,ZZ Top,1973
+582,Maid Of Orleans,Orchestral Manoeuvres In The Dark,1982
+583,Rhiannon (Will You Ever Win),Fleetwood Mac,1976
+584,Fields Of Gold,Eva Cassidy,1996
+585,Video Games,Lana Del Rey,2011
+586,Nightswimming,R.E.M.,1992
+587,Strawberry Fields Forever,Beatles,1967
+588,Riddles,Kensington,2015
+589,Alive And Kicking,Simple Minds,1985
+590,Photograph,Ed Sheeran,2015
+591,Black Or White,Michael Jackson,1991
+592,In The Blood,John Mayer,2017
+593,Something Just Like This,Chainsmokers & Coldplay,2017
+594,Such A Shame,Talk Talk,1984
+595,River Deep Mountain High,Ike & Tina Turner,1966
+596,Rebel Rebel,David Bowie,1974
+597,Slippery People (Live),Talking Heads,1985
+598,Like A Rollin' Stone,Bob Dylan,1965
+599,Layla ,Derek & The Dominos,1971
+600,Year Of The Cat,Al Stewart,1977
+601,Red Red Wine,UB40,1983
+602,Does Your Mother Know,ABBA,1979
+603,Heal The World,Michael Jackson,1992
+604,Songbird,Fleetwood Mac,1977
+605,Blowin' In The Wind,Bob Dylan,1963
+606,Fat Bottomed Girls,Queen,1978
+607,Badlands,Bruce Springsteen,1978
+608,Wonderful Days,Charly Lownoise & Mental Theo,1995
+609,Lazarus,David Bowie,2016
+610,Black Magic Woman,Santana,1970
+611,Chiquitita,ABBA,1979
+612,Limburg ,Rowwen Hèze,1996
+613,Just Give Me A Reason,Pink ft. Nate Ruess,2012
+614,Conquest Of Paradise,Vangelis,1995
+615,Private Dancer,Tina Turner,1984
+616,Hey You,Pink Floyd,1979
+617,I Feel Love,Donna Summer,1977
+618,Psycho Killer,Talking Heads,1978
+619,Slow Dancing In A Burning Room,John Mayer,2006
+620,Hocus Pocus,Focus,1971
+621,Yesterday When I Was Young,Charles Aznavour,1970
+622,Little Lies,Fleetwood Mac,1987
+623,Go Like Elijah,Chi Coltrane,1973
+624,Dark Necessities,Red Hot Chili Peppers,2016
+625,Ik Kan Het Niet Alleen,De Dijk,1989
+626,Father Figure,George Michael,1988
+627,Always,Bon Jovi,1994
+628,You're So Vain,Carly Simon,1973
+629,How Deep Is Your Love,Bee Gees,1977
+630,Faith,George Michael,1987
+631,Calm After The Storm,Common Linnets,2014
+632,Pompeii,Bastille,2013
+633,Leaving On A Jetplane,John Denver,1969
+634,Runnin' With The Devil,Van Halen,1980
+635,You Know I'm No Good,Amy Winehouse,2007
+636,Amsterdam,Nothing But Thieves,2017
+637,Us And Them,Pink Floyd,1973
+638,Voodoo Child (Slight Return),Jimi Hendrix,1968
+639,I Bet You Look Good On The Dancefloor,Arctic Monkeys,2005
+640,Morning Has Broken,Cat Stevens,1972
+641,Liefde Van Later,Herman Van Veen,1969
+642,You're My Best Friend,Queen,1976
+643,Black Betty,Ram Jam,1978
+644,Cloudbusting,Kate Bush,1985
+645,I'd Do Anything For Love (But I Won't Do That),Meat Loaf,1993
+646,I Will Survive,Gloria Gaynor,1979
+647,Bloedend Hart,De Dijk,1982
+648,Easy Livin',Uriah Heep,1973
+649,Eye Of The Tiger,Survivor,1982
+650,Jump,Van Halen,1984
+651,My Boy,Elvis Presley,1975
+652,Never Be Clever,Herman Brood & His Wild Romance,1979
+653,One More Light,Linkin Park,2016
+654,Mijn Houten Hart,Poema's,1999
+655,Gravity,John Mayer,2006
+656,Champagne Supernova,Oasis,1996
+657,Here I Go Again,Whitesnake,1987
+658,Wrong,Novastar,1999
+659,Zelfs Je Naam Is Mooi,Henk Westbroek,1998
+660,Daughters,John Mayer,2005
+661,Walk On The Wild Side,Lou Reed,1973
+662,Owner Of A Lonely Heart,Yes,1983
+663,Whatever You Want,Status Quo,1979
+664,Overcome,Live,2001
+665,Hometown Glory,Adele,2009
+666,Why Tell Me Why,Anita Meyer,1981
+667,Niet Of Nooit Geweest,Acda & De Munnik,1998
+668,Magic,Coldplay,2014
+669,Stand By Me,Ben E. King,1987
+670,A Different Corner,George Michael,1986
+671,Fly Me To The Moon,Frank Sinatra,1964
+672,The Thrill Is Gone,BB King,1969
+673,Hier Kom Ik Weg,Daniel Lohues,2008
+674,Son Of A Preacher Man,Dusty Springfield,1968
+675,Jimmy,Boudewijn De Groot,1973
+676,You Can Call Me Al,Paul Simon,1986
+677,I Gotta Feeling,Black Eyed Peas,2009
+678,L.A. Woman,Doors,1971
+679,There Is a Light That Never Goes Out,Smiths,1986
+680,Little Wing,Jimi Hendrix Experience,1967
+681,Teach Your Children,"Crosby, Stills, Nash & Young",1970
+682,Don't Cry,Guns N' Roses,1991
+683,Boogie Wonderland,"Earth, Wind & Fire",1979
+684,Circle Of Life,Elton John,1994
+685,The Wind Cries Mary,Jimi Hendrix Experience,1967
+686,Roll Over Lay Down (Live),Status Quo,1975
+687,I Will Follow (Live),U2,1982
+688,Take Me Out,Franz Ferdinand,2003
+689,Going To The Run,Golden Earring,1991
+690,Afscheid Nemen Bestaat Niet,Marco Borsato,2003
+691,Galway Girl,Ed Sheeran,2017
+692,The Turn Of A Friendly Card,Alan Parsons Project,1980
+693,Bring Me To Life,Evanescence,2003
+694,Long Blond Animal,Golden Earring,1980
+695,Witch Doctor,De Staat,2014
+696,Belgie,Het Goede Doel,1982
+697,Hald Mich 's Vas,Neet Oét Lottum,2004
+698,Bright Eyes,Art Garfunkel,1979
+699,She's A Rainbow,Rolling Stones,1967
+700,I Alone,Live,1995
+701,Don't Stop,Fleetwood Mac,1977
+702,De Verzoening,Frank Boeijen,1987
+703,(Everything I Do) I Do It For You,Bryan Adams,1991
+704,Alles Geprobeerd,Het Goede Doel,1986
+705,Albatross,Fleetwood Mac,1969
+706,Der Weg,Herbert Grönemeyer,2002
+707,In The Dutch Mountains,Nits,1987
+708,Het Is Een Nacht (Levensecht),Guus Meeuwis & Vagant,1995
+709,Lyin' Eyes,Eagles,1975
+710,1999,Prince,1982
+711,Where Is The Love,Black Eyed Peas,2003
+712,Land Of Confusion,Genesis,1986
+713,Father And Son,Cat Stevens,1971
+714,Bicycle Race,Queen,1978
+715,Tunnel Of Love,Dire Straits,1980
+716,So Long Marianne,Leonard Cohen,1968
+717,Would,Alice In Chains,1992
+718,You Are So Beautiful,Joe Cocker,1974
+719,Time to give,White Lies,2018
+720,What It Is,Mark Knopfler,2000
+721,Zij Maakt Het Verschil,Poema's,2001
+722,A Night Like This,Caro Emerald,2009
+723,Use Somebody,Kings Of Leon,2008
+724,Nothing Rhymed,Gilbert O'Sullivan,1971
+725,Everglow,Coldplay,2015
+726,White Room,Cream,1968
+727,One Of These Days,Pink Floyd,1971
+728,Like A Prayer,Madonna,1989
+729,Firth Of Fifth,Genesis,1973
+730,The Fool On The Hill,Beatles,1967
+731,Almost Cut My Hair,"Crosby, Stills, Nash & Young",1970
+732,Tie Your Mother Down,Queen,1977
+733,Be My Number Two,Joe Jackson,1984
+734,Sabotage,Beastie Boys,1994
+735,Let It Happen ,Tame Impala,2015
+736,Shallow,Lady Gaga & Bradley Cooper,2018
+737,Johnny B. Goode,Chuck Berry,1958
+738,Good Riddance (Time Of Your Life),Green Day,1997
+739,I Still Cry,Ilse DeLange,2000
+740,Zij,Marco Borsato,2002
+741,Love Hurts,Nazareth,1976
+742,Come On Eileen,Dexy's Midnight Runners,1982
+743,You Give Love A Bad Name,Bon Jovi,1986
+744,Song 2,Blur,1997
+745,Alone,Heart,1987
+746,Lemon Tree,Fools Garden,1996
+747,Tubular Bells,Mike Oldfield,1974
+748,The Way You Make Me Feel,Michael Jackson,1987
+749,Turning Tables,Adele,2011
+750,The Times They Are A Changin',Bob Dylan,1964
+751,Not An Addict,K's Choice,1996
+752,China Girl,David Bowie,1983
+753,My Silver Lining,First Aid Kit,2014
+754,The Unforgiven II ,Metallica,1997
+755,Through The Barricades,Spandau Ballet,1986
+756,Empire State Of Mind,Jay-Z & Alicia Keys,2009
+757,Wannabe,Spice Girls,1996
+758,So Lonely,Police,1979
+759,The Weight,The Band,1968
+760,One Way Wind,Cats,1971
+761,All I Want Is You,U2,1988
+762,Ordinary Love,U2,2013
+763,State Of Independence,Donna Summer,1982
+764,Band On The Run,Paul McCartney & Wings,1974
+765,Hallelujah,Lisa Lois,2009
+766,Can't Stop Loving You,Phil Collins,2002
+767,24K Magic,Bruno Mars,2016
+768,Ashes To Ashes,David Bowie,1980
+769,Bridges,Kensington,2017
+770,Need Your Love So Bad,Fleetwood Mac,1968
+771,Home Again,Kensington,2012
+772,Self Esteem,Offspring,1995
+773,Human Nature,Michael Jackson,1983
+774,Trouble,Coldplay,2000
+775,Sweet Goodbyes,Krezip,2009
+776,Vivo Per Lei,Andrea Bocelli & Giorgia,1996
+777,Mooi,Marco Borsato,2015
+778,Take This Waltz,Leonard Cohen,1988
+779,Once Upon A Time In The West,Ennio Morricone,1976
+780,Liverpool Rain,Racoon,2012
+781,"You're The First, The Last, My Everything",Barry White,1974
+782,Get Lucky,Daft Punk ft. Pharrell Williams,2013
+783,Don't Dream It's Over,Crowded House,1987
+784,Sebastian,Cockney Rebel,1973
+785,Jungleland,Bruce Springsteen,1975
+786,The Passenger,Iggy Pop,1976
+787,Miracle,Ilse DeLange,2009
+788,Sailing,Rod Stewart,1975
+789,How You Gonna See Me Now,Alice Cooper,1979
+790,Frozen,Madonna,1998
+791,Knockin' On Heaven's Door,Bob Dylan,1973
+792,Chasing Pavements,Adele,2008
+793,The Best,Tina Turner,1989
+794,Waterfront,Simple Minds,1983
+795,Lippy Kids,Elbow,2011
+796,Home,Dotan,2014
+797,I Have A Dream,ABBA,1979
+798,Tears Dry On Their Own,Amy Winehouse,2007
+799,Suzie Q (part 1),Creedence Clearwater Revival,1968
+800,Breakfast In America,Supertramp,1979
+801,Titanium,David Guetta & Sia,2011
+802,Beautiful Noise,Neil Diamond,1976
+803,New Kid In Town,Eagles,1977
+804,Mr. Jones,Counting Crows,1994
+805,Best Of You,Foo Fighters,2005
+806,If You Leave Me Now,Chicago,1976
+807,Addicted To You,Avicii,2014
+808,Weak,Skunk Anansie,1995
+809,Sgt. Pepper’s Lonely Hearts Club Band,Beatles,1967
+810,Denis,Blondie,1978
+811,You Want It Darker,Leonard Cohen,2016
+812,Islands In The Stream,Dolly Parton & Kenny Rogers,1983
+813,Kingston Town,UB40,1990
+814,All I Want For Christmas Is You,Mariah Carey,1994
+815,All Star,Smash Mouth,1999
+816,Breakthru,Queen,1989
+817,'39,Queen,1975
+818,Lucy In The Sky With Diamonds,Beatles,1967
+819,Kom Terug,Spinvis,2012
+820,Is Dit Nu Later,Stef Bos,1990
+821,Everybody Wants To Rule The World,Tears For Fears,1985
+822,Knowing Me Knowing You,ABBA,1977
+823,The Family Tree,Venice,1999
+824,Never Gonna Give You Up,Rick Astley,1987
+825,Auto Vliegtuug,Rowwen Hèze,1999
+826,Dani California,Red Hot Chili Peppers,2006
+827,Lust For Life,Iggy Pop,1977
+828,Binnen Zonder Kloppen,De Dijk,1985
+829,Human,The Killers,2008
+830,Lullaby,Cure,1989
+831,Bloasmuziek,Gé Reinders,1999
+832,Driving Home For Christmas,Chris Rea,1986
+833,The Long And Winding Road,Beatles,1970
+834,Wild is the Wind,David Bowie,1976
+835,Never Tear Us Apart,INXS,1988
+836,Start Me Up,Rolling Stones,1981
+837,Without Me,Eminem,2004
+838,Anyplace Anywhere Anytime,Nena & Kim Wilde,2003
+839,How You Remind Me,Nickelback,2001
+840,One Vision,Queen,1985
+841,All I Need,Air,1998
+842,Woman In Love,Barbra Streisand,1980
+843,Motorcycle Emptiness,Manic Street Preachers,1992
+844,Go With The Flow,Queens Of The Stone Age,2003
+845,Gangsta's Paradise,Coolio,1995
+846,Sunny Days,Armin van Buuren ft. Josh Cumbee,2017
+847,Let Me Entertain You,Robbie Williams,1998
+848,Hurt,Christina Aguilera,2006
+849,Man On The Moon,R.E.M.,1992
+850,Disarm,Smashing Pumpkins,1993
+851,Don't Stop 'til You Get Enough,Michael Jackson,1979
+852,Just A Little Bit Of Peace In My Heart,Golden Earrings,1968
+853,Mr. Bojangles,Robbie Williams,2001
+854,I Follow Rivers,Triggerfinger,2012
+855,Sharp Dressed Man,ZZ Top,1985
+856,Smack My Bitch Up,Prodigy,1997
+857,Winter,Tori Amos,1996
+858,At Last,Etta James,1960
+859,Sexual Healing,Marvin Gaye,1982
+860,Nikita,Elton John,1985
+861,Jesus He Knows Me,Genesis,1992
+862,Diamonds On The Soles Of Her Shoes,Paul Simon,1986
+863,Give A Little Bit,Supertramp,1977
+864,Het Land Van,Lange Frans & Baas B,2005
+865,Where The Wild Roses Grow,Nick Cave & Kylie Minogue,1995
+866,Sailing To Philadelphia,Mark Knopfler & James Taylor,2000
+867,Watskeburt,De Jeugd Van Tegenwoordig,2005
+868,Stressed Out,Twenty One Pilots,2016
+869,Take A Chance On Me,ABBA,1977
+870,Mercedes Benz,Janis Joplin,1970
+871,Tinseltown In The Rain,Blue Nile,1984
+872,Wat Zou Je Doen,Bløf,1998
+873,Girl,Anouk,2004
+874,Drops Of Jupiter (Tell Me),Train,2001
+875,Mooie Dag,Bløf,2002
+876,El Condor Pasa (If I Could),Simon & Garfunkel,1970
+877,Time Is Running Out,Muse,2003
+878,Feeling Good,Nina Simone,1965
+879,So Long,Fischer-Z,1980
+880,Glory Days,Bruce Springsteen,1985
+881,Zwart-Wit,Frank Boeijen,1984
+882,Blauwe Ruis,Bløf,2002
+883,I Just Can't Help Believin',Elvis Presley,1971
+884,Norwegian Wood,Beatles,1965
+885,Born To Be Wild,Steppenwolf,1968
+886,One Word,Anouk,2005
+887,Easy Lover,Phil Collins & Philip Bailey,1985
+888,Shape Of My Heart,Sting,1993
+889,Zandloper,Typhoon,2014
+890,Adventure Of A Lifetime,Coldplay,2015
+891,Musica E,Eros Ramazzotti,1989
+892,Happy New Year,ABBA,1980
+893,Porcelain,Moby,1999
+894,Real Men,Joe Jackson,1982
+895,Als Het Vuur Gedoofd Is,Acda & De Munnik,1997
+896,So Far Away,Dire Straits,1985
+897,One Of Us,ABBA,1981
+898,Gimme All Your Lovin',ZZ Top,1984
+899,Could You Be Loved,Bob Marley & The Wailers,1980
+900,No Mercy,Racoon,2011
+901,I Want It That Way,Backstreet Boys,1999
+902,Hymn For The Weekend,Coldplay,2015
+903,You've Got A Friend,Carole King,1971
+904,Russians,Sting,1985
+905,21 Guns,Green Day,2009
+906,Autobahn,Kraftwerk,1975
+907,Sound And Vision,David Bowie,1977
+908,1979,Smashing Pumpkins,1996
+909,Once In A Lifetime,Talking Heads,1981
+910,De Bom,Doe Maar,1982
+911,In Nije Dei,De Kast,1997
+912,Con Te Partiro,Andrea Bocelli,1996
+913,Heart-Shaped Box,Nirvana,1993
+914,Daar Gaat Ze,Clouseau,1990
+915,Take The Long Way Home,Supertramp,1979
+916,Droomland,André Hazes & Paul de Leeuw,1993
+917,Isn't She Lovely,Stevie Wonder,1976
+918,Lover Of The Light,Mumford & Sons,2012
+919,For Bitter Or Worse,Anouk,2009
+920,Follow You Follow Me,Genesis,1978
+921,Walking On The Moon,Police,1979
+922,Trapped (Live),Bruce Springsteen,1985
+923,Prachtig Mooie Dag,Daniel Lohues,2011
+924,Brown Sugar,Rolling Stones,1971
+925,No Surprises,Radiohead,1997
+926,Belle Helene,Doe Maar,1982
+927,Madness,Muse,2012
+928,Suzanne,Herman Van Veen,1969
+929,Heaven,Bryan Adams,1985
+930,De Neus Umhoeg,Rowwen Hèze,1995
+931,Help,Beatles,1965
+932,I Heard It Through The Grapevine,Marvin Gaye,1969
+933,Give Me Love,Ed Sheeran,2012
+934,Everybody Needs Somebody To Love,Blues Brothers,1989
+935,Firestarter,Prodigy,1996
+936,This Is The Life,Amy MacDonald,2008
+937,Purple Haze,Jimi Hendrix Experience,1967
+938,Every Little Thing She Does Is Magic,Police,1981
+939,You Do Something To Me,Paul Weller,1995
+940,School's Out,Alice Cooper,1972
+941,Can't Stop,Red Hot Chili Peppers,2002
+942,When The Sun Goes Down,Arctic Monkeys,2006
+943,Water Under The Bridge,Adele,2016
+944,Unchained Melody,Righteous Brothers,1965
+945,Have A Little Faith In Me,John Hiatt,1989
+946,I Wanna Dance With Somebody,Whitney Houston,1987
+947,Raspberry Beret,Prince & The Revolution,1985
+948,What's Up,4 Non Blondes,1993
+949,Real Slim Shady,Eminem,2000
+950,Unchain My Heart,Joe Cocker,1987
+951,Fernando,ABBA,1975
+952,MacArthur Park,Donna Summer,1978
+953,Waves,Mr. Probz,2013
+954,Cocaine,Eric Clapton,1978
+955,You,Ten Sharp,1991
+956,Waiting On A Friend,Rolling Stones,1981
+957,Our House,Madness,1982
+958,Mad World,Michael Andrews ft. Gary Jules,2003
+959,Venus,Shocking Blue,1969
+960,Undisclosed Desires,Muse,2009
+961,Dancing In The Street,David Bowie & Mick Jagger,1985
+962,Something,Beatles,1969
+963,Lea,Cats,1968
+964,I Wish It Would Rain Down,Phil Collins,1990
+965,Carry On Wayward Son,Kansas,1976
+966,Nine Million Bicycles,Katie Melua,2005
+967,Tranen Gelachen,Guus Meeuwis,2007
+968,Bad,Michael Jackson,1987
+969,Question,Moody Blues,1970
+970,Kristallnach,BAP,1983
+971,Flink Zijn,Robert Long,1977
+972,I Heard It Through The Grapevine,Creedence Clearwater Revival,1973
+973,Waitin' On A Sunny Day,Bruce Springsteen,2003
+974,Super Trouper,ABBA,1980
+975,Alles Is Liefde,Bløf,2007
+976,The Lady In Red,Chris de Burgh,1986
+977,Animals,Martin Garrix,2013
+978,My Heart Will Go On,Celine Dion,1998
+979,Road Trippin',Red Hot Chili Peppers,2000
+980,Only Time,Enya,2000
+981,On Top Of The World,Imagine Dragons,2013
+982,All For Nothing,Kensington,2014
+983,Down Down,Status Quo,1975
+984,I Would Die 4 U,Prince & The Revolution,1984
+985,Little Green Bag,George Baker Selection,1969
+986,Give It Away,Red Hot Chili Peppers,1992
+987,Voulez-Vous,ABBA,1979
+988,Free Fallin' (Live),John Mayer,2008
+989,Wanted (Dead Or Alive),Bon Jovi,1987
+990,Love Is A Battlefield,Pat Benatar,1984
+991,I'm Not So Tough,Ilse DeLange,1998
+992,Heaven Must Be Missing An Angel,Tavares,1976
+993,Smooth Operator,Sade,1984
+994,Natural,Imagine Dragons,2018
+995,You'll Never Walk Alone,Gerry & The Pacemakers,1963
+996,Locomotive Breath,Jethro Tull,1972
+997,Tainted Love,Soft Cell,1981
+998,Kiss,Prince & the Revolution,1986
+999,Ik Leef Niet Meer Voor Jou,Marco Borsato,1996
+1000,Ordinary World,Duran Duran,1993
+1001,Rain Down On Me,Kane,2002
+1002,Too Much Love Will Kill You,Brian May,1992
+1003,Miss You,Rolling Stones,1978
+1004,Orinoco Flow (Sail Away),Enya,1988
+1005,Ziggy Stardust,David Bowie,1972
+1006,No More Tears,Ozzy Osbourne,1990
+1007,Since I’ve Been Loving You,Led Zeppelin,1970
+1008,Het Werd Zomer,Rob de Nijs,1977
+1009,Speeltuin,Marco Borsato,1998
+1010,Alie,Normaal,1977
+1011,About A Girl (Unplugged),Nirvana,1993
+1012,Father & Friend,Alain Clark,2008
+1013,Hunger Strike,Temple Of The Dog,1991
+1014,Shout,Tears For Fears,1985
+1015,People Are Strange,Doors,1967
+1016,Ik Wou Dat Ik Jou Was,Veldhuis & Kemper,2003
+1017,Cry Baby,Janis Joplin,1971
+1018,Memory,Barbra Streisand,1982
+1019,Driver's Seat,Sniff 'n The Tears,1980
+1020,Stand My Ground,Within Temptation,2004
+1021,Break On Through (To The Other Side),Doors,1967
+1022,On Every Street,Dire Straits,1991
+1023,Smalltown Boy,Bronski Beat,1984
+1024,Moonlight Shadow,Mike Oldfield ft. Maggie Reilly,1983
+1025,De Waarheid,Marco Borsato,1996
+1026,Friends Will Be Friends,Queen,1986
+1027,If You Tolerate This Your Children Will Be Next,Manic Street Preachers,1998
+1028,Running To Stand Still,U2,1987
+1029,Plush,Stone Temple Pilots,1993
+1030,Don't Speak,No Doubt,1996
+1031,Crime Of The Century,Supertramp,1974
+1032,Tiny Dancer,Elton John,1971
+1033,True Colors,Cyndi Lauper,1986
+1034,Luv U More,DJ Paul Elstak,1995
+1035,When I Was Your Man,Bruno Mars,2013
+1036,Love Like Blood,Killing Joke,1985
+1037,A Gentleman's Excuse Me,Fish,1990
+1038,Candle In The Wind '97,Elton John,1997
+1039,Ich Bin Wie Du,Marianne Rosenberg,1976
+1040,I Knew You Were Waiting,George Michael & Aretha Franklin,1987
+1041,Thinking Of A Place,War On Drugs,2017
+1042,Land Van Maas En Waal,Boudewijn De Groot,1967
+1043,Anne,Herman Van Veen,1986
+1044,Blackstar,David Bowie,2015
+1045,Is Dit Alles,Doe Maar,1982
+1046,Fake Plastic Trees,Radiohead,1995
+1047,Bedshaped,Keane,2004
+1048,If I Were A Boy,Beyoncé,2008
+1049,The Eve Of The War,Jeff Wayne,1978
+1050,Smoorverliefd,Doe Maar,1981
+1051,Here Without You,3 Doors Down,2004
+1052,I've Got Dreams To Remember,Otis Redding,1968
+1053,Spread Your Wings,Queen,1978
+1054,Zing Voor Me,Lange Frans & Thé Lau,2010
+1055,Midnight Train To Georgia,Gladys Knight & The Pips,1973
+1056,Heaven For Everyone,Queen,1995
+1057,Keep Your Head Up,Ben Howard,2011
+1058,Tequila Sunrise,Eagles,1973
+1059,Guilty,Barbra Streisand & Barry Gibb,1980
+1060,Pinball Wizard,Who,1969
+1061,Budapest,George Ezra,2014
+1062,Listen To The Music,Doobie Brothers,1972
+1063,The Less I Know The Better,Tame Impala,2015
+1064,Hedonism,Skunk Anansie,1997
+1065,If You Could See Me Now,The Script,2013
+1066,Feeling Good,Michael Bublé,2005
+1067,This Is Not America,David Bowie & Pat Metheny Group,1985
+1068,De Kapitein Deel II,Acda & De Munnik,2000
+1069,Long As I Can See The Light,Creedence Clearwater Revival,1970
+1070,Happiness,Jonathan Jeremiah,2011
+1071,The Dolphin's Cry,Live,1999
+1072,Golden Years,David Bowie,1976
+1073,Love Is A Losing Game,Amy Winehouse,2007
+1074,Fool To Cry,Rolling Stones,1976
+1075,So Incredible,Ilse DeLange,2008
+1076,Absolute Beginners,David Bowie,1986
+1077,Scarborough Fair,Simon & Garfunkel,1966
+1078,Proud Mary,Creedence Clearwater Revival,1969
+1079,Nicotine,Chef'Special,2017
+1080,Cleanin' Out My Closet,Eminem,2002
+1081,L'amour Toujours,Gigi D'agostino,2001
+1082,The Next Episode,Dr. Dre ft. Snoop Dogg,2000
+1083,The Man Who Sold The World,David Bowie,1970
+1084,Burning Heart,Vandenberg,1983
+1085,Jumpin' Jack Flash,Rolling Stones,1968
+1086,You Took The Words Right Out Of My Mouth,Meat Loaf,1979
+1087,Gaia,Valensia,1993
+1088,Love Me Tender,Elvis Presley,1956
+1089,Thank God It's Christmas,Queen,1984
+1090,Sovereign Light Cafe,Keane,2012
+1091,Changes,David Bowie,1971
+1092,One Moment In Time,Whitney Houston,1988
+1093,Top Of The World,Carpenters,1973
+1094,Mirrors,Justin Timberlake,2013
+1095,Friday I'm In Love,Cure,1992
+1096,Both Sides Now,Joni Mitchell,1968
+1097,Fluorescent Adolescent,Arctic Monkeys,2007
+1098,Peter Gunn Theme,"Emerson, Lake & Palmer",1980
+1099,Comptine D'Un Autre Été: L'Après-Midi (Amélie),Yann Tiersen,2001
+1100,Gold,Spandau Ballet,1983
+1101,Candy,Iggy Pop & Kate Pierson,1990
+1102,Max,Paolo Conte,1988
+1103,I'm Still Standing,Elton John,1983
+1104,When Love Comes To Town,U2 & BB King,1989
+1105,Let Love Rule,Lenny Kravitz,1989
+1106,My Sweet Lord,George Harrison,1970
+1107,Free Fallin',Tom Petty,1989
+1108,Keep On Loving You,REO Speedwagon,1981
+1109,Crazy On You,Heart,1976
+1110,Live And Let Die,Guns N' Roses,1991
+1111,Stir It Up (Live),Bob Marley & The Wailers,1979
+1112,Storm And Thunder,Earth & Fire,1971
+1113,Alors On Danse,Stromae,2010
+1114,Broken Wings,Mr. Mister,1986
+1115,Just Can't Get Enough (Live),Depeche Mode,1985
+1116,Because The Night,Patti Smith Group,1978
+1117,Family Portrait,Pink,2002
+1118,In A Lifetime,Clannad & Bono,1986
+1119,Unintended,Muse,2009
+1120,Eternal Flame,Bangles,1989
+1121,Speed Of Sound,Coldplay,2005
+1122,Shoes Of Lightning,Racoon,2013
+1123,Kan Ik Iets Voor Je Doen?,De Dijk,2011
+1124,Tom Traubert's Blues (Waltzing Mathilda),Tom Waits,1976
+1125,Bad Romance,Lady Gaga,2009
+1126,Words,Bee Gees,1968
+1127,Behind Blue Eyes,Limp Bizkit,2004
+1128,Ruby Tuesday,Rolling Stones,1967
+1129,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton,2012
+1130,Michelle,Beatles,1966
+1131,I Am The Walrus,Beatles,1967
+1132,Wereld Zonder Jou,Marco Borsato & Trijntje Oosterhuis,1997
+1133,Beds Are Burning,Midnight Oil,1988
+1134,Eloise,Barry Ryan,1968
+1135,My Baby Just Cares For Me,Nina Simone,1987
+1136,The One I Love,R.E.M.,1991
+1137,Dear Mama,2Pac,1998
+1138,Off The Wall,Michael Jackson,1979
+1139,Pak Maar M'n Hand,Nick & Simon,2007
+1140,Oh Well (Part I),Fleetwood Mac,1969
+1141,Pumped Up Kicks,Foster The People,2011
+1142,Cambodia,Kim Wilde,1981
+1143,Message To My Girl,Split Enz,1984
+1144,Shut Your Eyes,Snow Patrol,2007
+1145,You're The Voice,John Farnham,1987
+1146,Personal Jesus,Depeche Mode,1990
+1147,It's My Life,Talk Talk,1984
+1148,Shotgun,George Ezra,2018
+1149,Non Non Rien N'A Changé,Poppys,1971
+1150,Ode To My Family,Cranberries,1994
+1151,The Name Of The Game,ABBA,1977
+1152,Uptown Girl,Billy Joel,1983
+1153,All You Need Is Love,Beatles,1967
+1154,The Racing Rats,Editors,2008
+1155,Beautiful People,Melanie,1969
+1156,Life's What You Make It,Talk Talk,1985
+1157,New York State Of Mind,Billy Joel,1976
+1158,Get Back,Beatles,1969
+1159,If You Don't Know Me By Now,Simply Red,1989
+1160,One More Time,Daft Punk,2000
+1161,Jacob's Song,Douwe Bob,2016
+1162,How To Save A Life,Fray,2007
+1163,California Love,2Pac ft. Dr. Dre,1996
+1164,Listen,Beyoncé,2007
+1165,Glory Box,Portishead,1994
+1166,Homesick,Dua Lipa & Chris Martin,2017
+1167,Faster,Within Temptation,2011
+1168,Listen To Your Heart,Roxette,1989
+1169,Pride And Joy,Stevie Ray Vaughan,1983
+1170,Harvest,Neil Young,1972
+1171,I'm Yours,Jason Mraz,2008
+1172,Just Say Yes,Snow Patrol,2009
+1173,Foto Van Vroeger,Rob de Nijs,1980
+1174,The Rising,Bruce Springsteen,2002
+1175,Love Never Felt So Good,Michael Jackson & Justin Timberlake,2014
+1176,Your Latest Trick,Dire Straits,1985
+1177,50 Ways To Leave Your Lover,Paul Simon,1976
+1178,Nightboat To Cairo,Madness,1980
+1179,Burning Love,Elvis Presley,1972
+1180,Rumour Has It,Adele,2011
+1181,The First Time Ever I Saw Your Face,Roberta Flack,1972
+1182,You Oughta Know,Alanis Morissette,1996
+1183,I Wish,Stevie Wonder,1977
+1184,Dodenrit,Drs. P,1974
+1185,Mijn Vlakke Land,Jacques Brel,1965
+1186,Theme From 'New York New York',Frank Sinatra,1980
+1187,Lego House,Ed Sheeran,2012
+1188,Summertime,Ella Fitzgerald & Louis Armstrong,1957
+1189,De Weg,Guus Meeuwis,2005
+1190,You Can't Hurry Love,Phil Collins,1982
+1191,Hello,Lionel Richie,1984
+1192,Hemel Valt,Typhoon,2015
+1193,Faded,Alan Walker,2016
+1194,The Boys Are Back In Town,Thin Lizzy,1976
+1195,Massachusetts,Bee Gees,1967
+1196,Whisky In The Jar,Thin Lizzy,1973
+1197,P.Y.T. (Pretty Young Thing),Michael Jackson,1984
+1198,Four Seasons In One Day,Crowded House,1992
+1199,'n Beetje Verliefd,André Hazes,1981
+1200,She Flies On Strange Wings,Golden Earring,1971
+1201,Hilversum 3,Herman Van Veen,1984
+1202,Talk,Coldplay,2005
+1203,Are You Gonna Go My Way,Lenny Kravitz,1993
+1204,Freak On A Leash,Korn,1998
+1205,Barracuda,Heart,1977
+1206,In A Gadda Da Vida,Iron Butterfly,1970
+1207,Moondance,Van Morrison,1970
+1208,New Gold Dream,Simple Minds,1982
+1209,Let's Get It On,Marvin Gaye,1973
+1210,The Air That I Breathe,Hollies,1974
+1211,Nederwiet,Doe Maar,1983
+1212,San Quentin,Johnny Cash,1969
+1213,Epic,Faith No More,1989
+1214,Nao 't Zuuje,Lex Uiting,2017
+1215,Nergens Goed Voor,De Dijk,1989
+1216,Two Out Of Three Ain't Bad,Meat Loaf,1977
+1217,Calypso,John Denver,1975
+1218,Live And Let Die,Paul McCartney & Wings,1973
+1219,De Bestemming,Marco Borsato,1998
+1220,Why Worry,Dire Straits,1985
+1221,Three Days In A Row,Anouk,2009
+1222,You Can Leave Your Hat On,Joe Cocker,1986
+1223,Somebody Told Me,The Killers,2004
+1224,Take Five,Dave Brubeck Quartet,1962
+1225,You've Got A Friend,James Taylor,1971
+1226,Il Volo,Zucchero,1996
+1227,Drive,R.E.M.,1992
+1228,Disco Inferno,Trammps,1977
+1229,Blueberry Hill,Fats Domino,1957
+1230,Why Does My Heart Feel So Bad,Moby,1999
+1231,Lonely Boy,Black Keys,2011
+1232,I Will Always Love You,Dolly Parton,1983
+1233,In My Place,Coldplay,2002
+1234,Black Velvet,Alannah Myles,1990
+1235,Wake Me Up Before You Go Go,Wham,1984
+1236,Hold Me,Anouk & Douwe Bob,2014
+1237,Daughter,Pearl Jam,1993
+1238,Love Is All,Roger Glover & Guests,1975
+1239,All My Life,Foo Fighters,2002
+1240,September Morn',Neil Diamond,1979
+1241,9 To 5,Dolly Parton,1981
+1242,Road To Nowhere,Talking Heads,1985
+1243,You Don't Fool Me,Queen,1996
+1244,Baby Can I Hold You,Tracy Chapman,1988
+1245,Crazy In Love,Beyoncé & Jay-Z,2002
+1246,Aanzoek Zonder Ringen,Bløf,2006
+1247,Love On Top,Beyoncé,2011
+1248,Waiting On The World To Change,John Mayer,2006
+1249,Honky Tonk Women,Rolling Stones,1969
+1250,Vertigo,U2,2004
+1251,Run To You,Bryan Adams,1985
+1252,Als Het Golft,De Dijk,2000
+1253,All The Small Things,Blink-182,1999
+1254,Send Me An Angel,Scorpions,1991
+1255,City Of Blinding Lights,U2,2005
+1256,Let's Go Crazy,Prince & the Revolution,1984
+1257,Jerusalem,Anouk,2005
+1258,Geen Kind Meer,Karin Bloemen,1996
+1259,Every Teardrop Is A Waterfall,Coldplay,2011
+1260,Will You Be There,Michael Jackson,1993
+1261,Big Love,Fleetwood Mac,1987
+1262,R U Kiddin' Me,Anouk,1999
+1263,A Thing Called Love,Johnny Cash,1972
+1264,Holiday,Green Day,2005
+1265,Walking In Memphis,Marc Cohn,1991
+1266,Nutbush City Limits,Ike & Tina Turner,1974
+1267,Roundabout,Yes,1972
+1268,Baggy Trousers,Madness,1980
+1269,Stuck In The Middle With You,Stealers Wheel,1973
+1270,All I Want,Kodaline,2012
+1271,Born On The Bayou,Creedence Clearwater Revival,1972
+1272,Sledgehammer,Peter Gabriel,1986
+1273,De Wedstrijd,Bram Vermeulen,1991
+1274,Red Eyes,War On Drugs,2013
+1275,As Tears Go By,Rolling Stones,1966
+1276,Raise Your Glass,Pink,2010
+1277,S.O.S.,ABBA,1975
+1278,Live To Tell,Madonna,1986
+1279,Verdammt Ich Lieb' Dich,Matthias Reim,1990
+1280,You'll Never Walk Alone,Lee Towers,1976
+1281,Walk This Way,Run DMC ft. Aerosmith,1986
+1282,The Living Years,Mike & The Mechanics,1989
+1283,Run The World (Girls),Beyoncé,2011
+1284,Fireflies,Owl City,2009
+1285,Binnen,Marco Borsato,1999
+1286,Greatest Love Of All,Whitney Houston,1986
+1287,Night Fever,Bee Gees,1978
+1288,Pamela,Toto,1988
+1289,Mull Of Kintyre,Paul McCartney & Wings,1977
+1290,Dromen Zijn Bedrog,Marco Borsato,1994
+1291,Learning To Fly,Tom Petty & The Heartbreakers,1991
+1292,Wild Rover,Dubliners,1964
+1293,Dog Days Are Over,Florence + The Machine,2009
+1294,After Midnight,J.J. Cale,1972
+1295,Cry Me A River,Justin Timberlake,2002
+1296,Une Belle Histoire / Een Mooi Verhaal,Alderliefste & Paul de Leeuw,2006
+1297,Munich,Editors,2005
+1298,I Won't Give Up,Jason Mraz,2012
+1299,It Was A Very Good Year,Frank Sinatra,1968
+1300,A Change Is Gonna Come,Sam Cooke,1964
+1301,Single Ladies (Put A Ring On It),Beyoncé,2008
+1302,Unwritten,Natasha Bedingfield,2004
+1303,Iederene Hef Een Reden,Bökkers,2016
+1304,Save A Prayer,Duran Duran,1985
+1305,Babel,Mumford & Sons,2013
+1306,At Seventeen,Janis Ian,1975
+1307,My Name Is,Eminem,1999
+1308,Make Me Smile (Come Up And See Me),Steve Harley & Cockney Rebel,1975
+1309,Vogue,Madonna,1990
+1310,Rock With You,Michael Jackson,1979
+1311,Dazed And Confused,Led Zeppelin,1969
+1312,Farewell To The Fairground,White Lies,2009
+1313,The Promise You Made,Cock Robin,1986
+1314,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell,1967
+1315,Praying For Time,George Michael,1990
+1316,Weather With You,Crowded House,1991
+1317,Remedy,Black Crowes,1992
+1318,One Love - People Get Ready,Bob Marley & The Wailers,1984
+1319,Flappie,Youp van 't Hek,1981
+1320,Don't Bring Me Down,Electric Light Orchestra,1979
+1321,By The Way,Red Hot Chili Peppers,2002
+1322,Hall Of Fame,The Script ft. Will.I.Am,2012
+1323,House For Sale,Lucifer,1975
+1324,World Of Hurt,Ilse DeLange,1998
+1325,Marian,Cats,1969
+1326,Perhaps Love,John Denver & Placido Domingo,1981
+1327,Wit Licht,Jeroen van Koningsbrugge,2015
+1328,Just The Way You Are,Bruno Mars,2010
+1329,Do They Know It's Christmas,Band Aid,1984
+1330,L.A. Song,Beth Hart,1999
+1331,The Reflex,Duran Duran,1984
+1332,The Life I Live,Q65,1966
+1333,Blitzkrieg Bop,Ramones,1976
+1334,Cold As Ice,Foreigner,1977
+1335,I Want You,Bob Dylan,1966
+1336,It's A Long Way There,Little River Band,1976
+1337,Can't Stand Losing You,Police,1979
+1338,Home Again,Michael Kiwanuka,2012
+1339,Yellow Submarine,Beatles,1966
+1340,When I'm Sixty-Four,Beatles,1967
+1341,Fairytale Of New York,The Pogues & Kirsty Maccoll,1987
+1342,Spirit Of Radio,Rush,1980
+1343,Sowing The Seeds Of Love,Tears For Fears,1989
+1344,Biko,Peter Gabriel,1980
+1345,Gold On The Ceiling,Black Keys,2011
+1346,Sky And Sand,Paul Kalkbrenner,2008
+1347,Avalon,Roxy Music,1982
+1348,Livin' Thing,Electric Light Orchestra,1976
+1349,Niggas In Paris,Kanye West & Jay Z,2011
+1350,Sloop John B,Beach Boys,1966
+1351,Stranger In Moscow,Michael Jackson,1996
+1352,Hey There Delilah,Plain White T's,2007
+1353,Crazy,Seal,1991
+1354,Homeward Bound,Simon & Garfunkel,1966
+1355,Goodbye Stranger,Supertramp,1979
+1356,As,George Michael & Mary J. Blige,1999
+1357,Traffic,Tiesto,2003
+1358,Vluchten Kan Niet Meer,Frans Halsema & Jenny Arean,1977
+1359,Everybody's Changing,Keane,2004
+1360,Mercy,Muse,2015
+1361,Love On The Rocks,Neil Diamond,1980
+1362,Hey Ya!,Outkast,2004
+1363,Tuesday Afternoon,Moody Blues,1968
+1364,Feeling Good,Muse,2001
+1365,Mia,Gorki,1992
+1366,Somebody Will Know Someday,Cuby & the Blizzards,1967
+1367,Home,Michael Bublé,2005
+1368,Vlieg Met Me Mee (Live),Paul De Leeuw,1992
+1369,It Must Have Been Love,Roxette,1990
+1370,Fly Like An Eagle,Steve Miller Band,1976
+1371,Love Yourself,Justin Bieber,2016
+1372,Harder Better Faster Stronger,Daft Punk,2001
+1373,Why,Annie Lennox,1992
+1374,The Saints Are Coming,U2 & Green Day,2006
+1375,In Dreams,Roy Orbison,1963
+1376,Live Forever,Oasis,1994
+1377,London Calling,Clash,1979
+1378,Lessons In Love,Level 42,1986
+1379,Someone Somewhere In Summertime,Simple Minds,1982
+1380,Black Night,Deep Purple,1970
+1381,God Save The Queen,Sex Pistols,1979
+1382,The Monster,Eminem & Rihanna,2013
+1383,It's Time,Imagine Dragons,2013
+1384,Rockin' All Over The World,Status Quo,1977
+1385,Hopeless Wanderer,Mumford & Sons,2013
+1386,Glycerine,Bush,1994
+1387,(You're) The Devil In Disguise,Elvis Presley,1963
+1388,Don't Know Why,Norah Jones,2002
+1389,Stuck In A Moment You Can't Get Out Of,U2,2000
+1390,Hungry Heart,Bruce Springsteen,1980
+1391,Despacito,Luis Fonsi ft. Daddy Yankee,2017
+1392,Tragedy,Bee Gees,1979
+1393,Sir Duke,Stevie Wonder,1977
+1394,The Way It Is,Bruce Hornsby & The Range,1986
+1395,Dancing On My Own,Calum Scott,2016
+1396,I'm Going Home,Ten Years After,1971
+1397,A Ton Of Love,Editors,2013
+1398,Stay With Me,Sam Smith,2014
+1399,(Something Inside) So Strong,Labi Siffre,1987
+1400,Sunshine Of Your Love,Cream,1968
+1401,Food For Thought,UB40,1983
+1402,Let There Be Rock,AC/DC,1977
+1403,One,Johnny Cash,2000
+1404,Unbeschreiblich Weiblich,Nina Hagen,1979
+1405,Royals,Lorde,2013
+1406,Down On The Corner,Creedence Clearwater Revival,1969
+1407,Boys Don't Cry,Cure,1986
+1408,Don't You Worry Child,Swedish House Mafia ft. John Martin,2012
+1409,Bestel Mar,Rowwen Hèze,1992
+1410,Scenes From An Italian Restaurant,Billy Joel,1977
+1411,Ben Ik Te Min,Armand,1967
+1412,It's A Man's Man's World,James Brown,1966
+1413,Up&Up,Coldplay,2016
+1414,Spicks And Specks,Bee Gees,1967
+1415,Kids,MGMT,2007
+1416,Theme From 'Harry's Game',Clannad,1983
+1417,Maggie May,Rod Stewart,1971
+1418,25 Or 6 To 4,Chicago,1970
+1419,Shiny Happy People,R.E.M.,1991
+1420,Somebody To Love,Jefferson Airplane,1967
+1421,More Than Words,Extreme,1991
+1422,I Can't Make You Love Me,Bonnie Raitt,1991
+1423,Havana,Camila Cabello,2017
+1424,When A Man Loves A Woman,Percy Sledge,1966
+1425,Big Log,Robert Plant,1983
+1426,Make It Wit Chu,Queens Of The Stone Age,2008
+1427,Uncertain Smile,The The,1984
+1428,Is This Love,Bob Marley & The Wailers,1979
+1429,Sunrise,Norah Jones,2004
+1430,Stars,Simply Red,1991
+1431,Heathens,Twenty One Pilots,2016
+1432,Mannish Boy,Muddy Waters,1988
+1433,"See Me, Feel Me",Who,1970
+1434,Hide In Your Shell,Supertramp,1974
+1435,Wanna Be Startin' Somethin',Michael Jackson,1983
+1436,"He Ain't Heavy, He's My Brother",Hollies,1969
+1437,Working Class Hero,John Lennon,1970
+1438,Going To A Town,Rufus Wainwright,2007
+1439,Voltooid Verleden Tijd,Is Ook Schitterend,1997
+1440,She Will Be Loved,Maroon 5,2004
+1441,Stay,Rihanna ft. Mikky Ekko,2013
+1442,In My Life,Beatles,1965
+1443,'n Vriend,André Hazes,1980
+1444,Wat Zou Je Doen,Marco Borsato & Ali B,2004
+1445,Stiekem Gedanst,Toontje Lager,1983
+1446,Het Is Koud Zonder Jou,André Hazes,1980
+1447,Seven Wonders,Fleetwood Mac,1987
+1448,Vriendschap,Het Goede Doel,1983
+1449,Magnificent (She Says),Elbow,2016
+1450,Tumble And Fall,Johan,2001
+1451,Guitar Man,Elvis Presley,1968
+1452,Killing Me Softly,Fugees,1996
+1453,Banger Hart,Rob de Nijs,1996
+1454,What's Love Got To Do With It,Tina Turner,1984
+1455,Tous Les Memes,Stromae,2013
+1456,Dust Bowl,Joe Bonamassa,2011
+1457,Don't Answer Me,Alan Parsons Project,1984
+1458,I Won't Let You Down,PHD,1981
+1459,N'Oubliez Jamais,Joe Cocker,1997
+1460,Promises Of No Man's Land,Blaudzun,2014
+1461,You And Me,Spargo,1980
+1462,No Good (Start The Dance),Prodigy,1994
+1463,White Flag,Dido,2003
+1464,Proosten,Guus Meeuwis,2007
+1465,Clown,Emeli Sandé,2012
+1466,Kijk Omhoog,Nick & Simon,2007
+1467,Streets Of London,Ralph McTell,1972
+1468,Ordinary People,John Legend,2005
+1469,Moon Over Bourbon Street,Sting,1985
+1470,Times Like These,Foo Fighters,2003
+1471,Scared To Be Lonely,Martin Garrix & Dua Lipa,2017
+1472,Mr. Bojangles,Sammy Davis Jr.,1967
+1473,In Bloom,Nirvana,1991
+1474,Black Dog,Led Zeppelin,1971
+1475,The Unforgiven III,Metallica,2008
+1476,Looking Too Closely,Fink,2014
+1477,This Town,Niall Horan,2016
+1478,Twist And Shout,Beatles,1963
+1479,Fight For Your Right (To Party),Beastie Boys,1986
+1480,Mary Jane's Last Dance,Tom Petty & The Heartbreakers,1993
+1481,Tell Him,Celine Dion & Barbra Streisand,1997
+1482,Dynamite,Mud,1974
+1483,The Worker,Fischer-Z,1979
+1484,World Gone Mad,Bastille,2017
+1485,Working On A Dream,Bruce Springsteen,2008
+1486,Europa (Earth's Cry Heaven's Smile),Santana,1976
+1487,Memories,Earth & Fire,1972
+1488,San Francisco (Be Sure To Wear Some Flowers In Your Hair),Scott McKenzie,1967
+1489,Les Lacs Du Connemara,Michel Sardou,1982
+1490,La Solitudine,Laura Pausini,1993
+1491,I Want You Back,Jackson 5,1970
+1492,Diamonds,Rihanna,2012
+1493,I Sat By The Ocean,Queens Of The Stone Age,2013
+1494,Beautiful Goodbye,Amanda Marshall,1996
+1495,Everything,Michael Bublé,2007
+1496,Heartbreak Warfare,John Mayer,2009
+1497,Oxygene IV,Jean Michel Jarre,1977
+1498,Angel Of Harlem,U2,1988
+1499,Thank God I'm A Country Boy,John Denver,1975
+1500,Diane,Therapy?,1995
+1501,Pa,Doe Maar,1983
+1502,Lady Jane,Rolling Stones,1966
+1503,I Want You To Want Me,Cheap Trick,1979
+1504,Breakeven,The Script,2009
+1505,Josephine,Chris Rea,1985
+1506,Superheroes,The Script,2014
+1507,You Have Been Loved,George Michael,1997
+1508,Done With It,Kensington,2015
+1509,Songbird,Eva Cassidy,1997
+1510,We Come 1,Faithless,2001
+1511,In These Arms,Bon Jovi,1993
+1512,Scarlet Ribbons,Cats,1969
+1513,Sandstorm,Darude,2001
+1514,Mooi Liedje,Acda & De Munnik,1997
+1515,Sing For Absolution,Muse,2003
+1516,I Feel It Coming,The Weeknd ft. Daft Punk,2016
+1517,Are You Lonesome Tonight,Elvis Presley,1961
+1518,Still Crazy After All These Years,Paul Simon,1975
+1519,Fire,Pointer Sisters,1979
+1520,Be The One,Dua Lipa,2016
+1521,Always On My Mind,Willie Nelson,1984
+1522,Le Freak,Chic,1978
+1523,Can You Feel The Love Tonight,Elton John,1994
+1524,Waarom Nou Jij,Marco Borsato,1994
+1525,She's The One,Robbie Williams,1999
+1526,A Head Full Of Dreams,Coldplay,2016
+1527,Mushanga,Toto,1988
+1528,Sammy,Ramses Shaffy,1966
+1529,Close To The Edge,Yes,1972
+1530,Right Next Door (Because Of Me),Robert Cray Band,1987
+1531,Fire (Live),Bruce Springsteen,1986
+1532,"Oh, Pretty Woman",Roy Orbison,1964
+1533,Sure Know Something,KISS,1979
+1534,Bend And Break,Keane,2005
+1535,No Diggity,Blackstreet ft. Dr Dre,1996
+1536,Times Are Changing,Di-rect,2009
+1537,Blue Suede Shoes,Elvis Presley,1956
+1538,Summertime,Brainbox,1969
+1539,Cecilia,Simon & Garfunkel,1970
+1540,Lookin' Out My Back Door,Creedence Clearwater Revival,1970
+1541,Everytime I Think Of You,Babys,1979
+1542,The Greatest,Sia,2016
+1543,Nur Getraumt,Nena,1983
+1544,Nights On Broadway,Bee Gees,1975
+1545,Down Man,Brainbox,1969
+1546,Try A Little Tenderness,Otis Redding,1966
+1547,We Belong To The Night,Ellen Foley,1979
+1548,Nightporter,Japan,1980
+1549,Everybody (Backstreet's Back),Backstreet Boys,1997
+1550,Back Home,Golden Earring,1970
+1551,Time After Time,Cyndi Lauper,1984
+1552,Fox On The Run,Sweet,1975
+1553,A Hard Day's Night,Beatles,1964
+1554,Feel It Still,Portugal. The Man,2017
+1555,Relight My Fire,Dan Hartman,1980
+1556,Pure Morning,Placebo,1998
+1557,Forever Man,Eric Clapton,1985
+1558,What A Fool Believes,Doobie Brothers,1978
+1559,Major Tom (Völlig Losgelöst),Peter Schilling,1983
+1560,The Jean Genie,David Bowie,1973
+1561,Wonderful World,Sam Cooke,1986
+1562,Lovely Day,Bill Withers,1978
+1563,When I Come Around,Green Day,1995
+1564,My Generation,Who,1965
+1565,Handle With Care,Traveling Wilburys,1988
+1566,Close To Me,Cure,1985
+1567,Cocaine,J.J. Cale,1976
+1568,I'm A Believer,Monkees,1966
+1569,She's Leaving Home,Beatles,1967
+1570,Hollereer,De Jeugd Van Tegenwoordig,2008
+1571,Roadhouse Blues,Doors,1970
+1572,The Way We Were,Barbra Streisand,1973
+1573,Girls Just Want To Have Fun,Cyndi Lauper,1984
+1574,Let's Stay Together,Al Green,1971
+1575,Bigmouth Strikes Again,Smiths,1986
+1576,The Miracle,Queen,1989
+1577,These Days,Foo Fighters,2011
+1578,Locked Out Of Heaven,Bruno Mars,2012
+1579,Uninvited,Alanis Morissette,1999
+1580,Appleknockers Flophouse,Cuby & the Blizzards,1969
+1581,An End Has A Start,Editors,2007
+1582,Grow Old With Me,Tom Odell,2013
+1583,Something Happened On The Way To Heaven,Phil Collins,1990
+1584,Maybe Tomorrow,Stereophonics,2003
+1585,Call Me The Breeze,J.J. Cale,1972
+1586,Jump Around,House Of Pain,1992
+1587,It's The End Of The World As We Know It,R.E.M.,1987
+1588,Beautiful Trauma,Pink,2017
+1589,Overture (Tommy),Who,2009
+1590,La Isla Bonita,Madonna,1987
+1591,Georgia On My Mind,Ray Charles,1960
+1592,Rock And Roll,Led Zeppelin,1971
+1593,Things We Lost In The Fire,Bastille,2013
+1594,Bird Of Paradise,Snowy White,1984
+1595,Run To The Water,Live,2000
+1596,Killing Me Softly With His Song,Roberta Flack,1973
+1597,Brilliant Disguise,Bruce Springsteen,1987
+1598,Love And Hate,Michael Kiwanuka,2016
+1599,The Drugs Don't Work,The Verve,1997
+1600,When You Say Nothing At All,Ronan Keating,1999
+1601,Gute Nacht Freunde,Reinhard Mey,1974
+1602,Sunrise,Simply Red,2003
+1603,Smooth,Santana & Rob Thomas,2000
+1604,Move On Up,Curtis Mayfield,1970
+1605,Forever Autumn,Jeff Wayne & Justin Hayward,1978
+1606,Two Tribes,Frankie Goes To Hollywood,1984
+1607,Give Up Your Guns,Buoys,1972
+1608,Waterloo Sunset,Kinks,1967
+1609,Malle Babbe,Rob de Nijs,1975
+1610,Een Meisje Van 16,Boudewijn De Groot,1965
+1611,Toveren,Herman Van Veen,1987
+1612,That's Life,Frank Sinatra,1966
+1613,7 Seconds,Youssou N'Dour & Neneh Cherry,1994
+1614,Midnight Rambler,Rolling Stones,1969
+1615,Don't You Want Me,Human League,1982
+1616,Goodbye My Lover,James Blunt,2005
+1617,Me Gustas Tu,Manu Chao,2001
+1618,Around The World,Daft Punk,1997
+1619,Weekend,Earth & Fire,1979
+1620,We All Stand Together,Paul McCartney & Frog Chorus,1985
+1621,Why Can't This Be Love,Van Halen,1987
+1622,Relax,Frankie Goes To Hollywood,1984
+1623,Children,Robert Miles,1996
+1624,Riverside,Agnes Obel,2011
+1625,Hou Vol Hou Vast,Bløf,2011
+1626,Apache,Shadows,1960
+1627,Human Touch,Bruce Springsteen,1992
+1628,The Eyes Of Jenny,Sandy Coast,1981
+1629,Nescio,Nits,1983
+1630,Memory Remains,Metallica,1997
+1631,Home By The Sea,Genesis,1983
+1632,I'm Every Woman,Chaka Khan,1979
+1633,Beast Of Burden,Rolling Stones,1978
+1634,The Cross,Prince,1987
+1635,Blue Hotel,Chris Isaak,1987
+1636,I Started A Joke,Bee Gees,1969
+1637,American Trilogy,Elvis Presley,1972
+1638,Foolish Games,Jewel,1997
+1639,You Ain't Seen Nothing Yet,Bachman-Turner Overdrive,1974
+1640,Wouldn't It Be Nice,Beach Boys,1966
+1641,La Vie En Rose,Grace Jones,1977
+1642,I'm Going Slightly Mad,Queen,1991
+1643,Late In The Evening,Paul Simon,1980
+1644,Mensch,Herbert Grönemeyer,2003
+1645,Fame,David Bowie,1975
+1646,No Good In Goodbye,The Script,2014
+1647,Heavy Cross,Gossip,2009
+1648,Rosie,Claw Boys Claw,1992
+1649,Hier,Bløf,2000
+1650,Casser La Voix (Live),Patrick Bruel,1992
+1651,I Want To Hold Your Hand,Beatles,1964
+1652,In Your Eyes,Peter Gabriel,1986
+1653,Virtual Insanity,Jamiroquai,1996
+1654,Later Als Ik Groter Ben,Bløf,2012
+1655,Sex Machine,James Brown,1970
+1656,Amsterdam,Coldplay,2002
+1657,Get Ready,Rare Earth,1970
+1658,Twist In My Sobriety,Tanita Tikaram,1988
+1659,Poker Face,Lady Gaga,2009
+1660,Liquid Spirit (Claptone Remix),Gregory Porter,2015
+1661,Life In Technicolor ii,Coldplay,2009
+1662,God Put A Smile Upon Your Face,Coldplay,2002
+1663,Follow The Sun,Xavier Rudd,2015
+1664,Slapeloze Nachten,Opposites,2013
+1665,Counting Stars,One Republic,2013
+1666,Grenade,Bruno Mars,2010
+1667,Diamonds And Pearls,Prince & The New Power Generation,1991
+1668,The Wall Street Shuffle,10cc,1974
+1669,Little Red Rooster,Rolling Stones,1965
+1670,Politik,Coldplay,2002
+1671,7 Years,Lukas Graham,2015
+1672,Fire And Rain,James Taylor,1970
+1673,Born To Be Alive,Patrick Hernandez,1979
+1674,Big In Japan,Alphaville,1984
+1675,This Is My Life,Shirley Bassey,1979
+1676,Living On My Own,Freddie Mercury,1993
+1677,All Night Long (All Night),Lionel Richie,1983
+1678,MMm MMm MMm MMm,Crash Test Dummies,1993
+1679,Lost,Coldplay,2008
+1680,Man Down,Rihanna,2011
+1681,(They Long To Be) Close To You,Carpenters,1970
+1682,Wheels,Foo Fighters,2009
+1683,Same Love,Macklemore & Ryan Lewis,2013
+1684,Rapper's Delight,Sugarhill Gang,1979
+1685,Ship To Wreck,Florence + The Machine,2015
+1686,Time Is On My Side,Rolling Stones,1965
+1687,Skandal Im Sperrbezirk,Spider Murphy Gang,1982
+1688,Lucky Man,"Emerson, Lake & Palmer",1971
+1689,Sweet Victory,David Glen Eisley,2012
+1690,Als De Rook Om Je Hoofd Is Verdwenen,Boudewijn De Groot,1972
+1691,No Limit,2 Unlimited,1993
+1692,Rooster,Alice In Chains,1992
+1693,Sexy Als Ik Dans,Nielson,2014
+1694,Bullet With Butterfly Wings,Smashing Pumpkins,1995
+1695,Thank U,Alanis Morissette,1998
+1696,Red Mij Niet,Maarten van Roozendaal,2001
+1697,All Summer Long,Kid Rock,2008
+1698,The Day After Tomorrow,Saybia,2002
+1699,Nothing Really Matters,Mr. Probz,2014
+1700,Papa Can You Hear Me?,Barbra Streisand,1983
+1701,I Got You Babe,UB40 & Chrissie Hynde,1985
+1702,The Blower's Daughter,Damien Rice,2005
+1703,Don't Leave Me This Way,Communards & Sarah Jane Morris,1986
+1704,Green Eyes,Coldplay,2002
+1705,Parijs,Kenny B.,2015
+1706,Skin,Rag'n'Bone Man,2017
+1707,Spanish Stroll,Mink Deville,1977
+1708,Under My Thumb,Rolling Stones,1966
+1709,Domino,Clouseau,1990
+1710,Girl You'll Be A Woman Soon,Neil Diamond,1971
+1711,The Book Of Love,Gavin James,2015
+1712,Torn,Natalie Imbruglia,1997
+1713,Touch Me,Doors,1969
+1714,We Didn't Start The Fire,Billy Joel,1989
+1715,Hound Dog,Elvis Presley,1959
+1716,"Tonight, Tonight",Smashing Pumpkins,1995
+1717,We Are The World,USA for Africa,1985
+1718,Carry On,"Crosby, Stills, Nash & Young",1970
+1719,Sylvia's Mother,Dr Hook & The Medicine Show,1972
+1720,Roar,Katy Perry,2013
+1721,Wonderful Life,Black,1987
+1722,Duel Eye To Eye,Propaganda,1985
+1723,Famous Blue Raincoat,Leonard Cohen,1971
+1724,Into The Great Wide Open,Tom Petty & The Heartbreakers,1992
+1725,Way Down We Go,Kaleo,2016
+1726,The Needle And The Damage Done,Neil Young,1972
+1727,The Joker,Steve Miller Band,1973
+1728,Can't Get It Out Of My Head,Electric Light Orchestra,1975
+1729,If I Ain't Got You,Alicia Keys,2004
+1730,Praise You,Fatboy Slim,1998
+1731,Crazy,Gnarls Barkley,2006
+1732,Violet Hill,Coldplay,2008
+1733,Green Green Grass Of Home,Tom Jones,1966
+1734,Need You Now,Lady Antebellum,2010
+1735,Nathalie,Gilbert Becaud,1964
+1736,We Can Work It Out,Beatles,1965
+1737,Kalverliefde,Robert Long,1974
+1738,The Hardest Part,Coldplay,2006
+1739,Sacrifice,Anouk,1998
+1740,Still Believe,Herman Brood & His Wild Romance,1978
+1741,Master Blaster (Jammin'),Stevie Wonder,1980
+1742,Come Undone,Robbie Williams,2003
+1743,Anarchy In The Uk,Sex Pistols,1976
+1744,Hart Van Mijn Gevoel,De Kast,1999
+1745,Novocaine For The Soul,Eels,1996
+1746,Luka,Suzanne Vega,1987
+1747,Ik Heb Je Lief,Stef Bos,1992
+1748,You're Beautiful,James Blunt,2005
+1749,Tears In The Morning,Beach Boys,1970
+1750,Woman,Wolfmother,2005
+1751,Hijo De La Luna,Mecano,1990
+1752,Per Spoor (Kedeng Kedeng),Guus Meeuwis & Vagant,1996
+1753,I'm Coming Out,Diana Ross,1980
+1754,Buffalo Soldier,Bob Marley & The Wailers,1983
+1755,Prikkebeen,Boudewijn De Groot,1968
+1756,I Love You Like I Love Myself,Herman Brood & His Wild Romance,1979
+1757,Won't Get Fooled Again,Who,1971
+1758,Take It To The Limit,Eagles,1975
+1759,Terug Naar De Kust,Maggie MacNeal,1976
+1760,Reflections,Diana Ross & The Supremes,1967
+1761,One Day I'll Fly Away,Randy Crawford,1980
+1762,Heartbreak Hotel,Elvis Presley,1956
+1763,Don't Stand So Close To Me,Police,1980
+1764,Skinny Love,Birdy,2011
+1765,I Don't Wanna Hurt,Anouk,2008
+1766,Living Doll,Cliff Richard & The Young Ones,1986
+1767,Accidentally In Love,Counting Crows,2004
+1768,Blinded By The Light,Manfred Mann's Earth Band,1976
+1769,Stitches,Shawn Mendes,2015
+1770,Charlie Brown,Coldplay,2011
+1771,Meer Dan Een Ander,Van Dik Hout,1994
+1772,Dancing With Tears In My Eyes,Ultravox,1984
+1773,Silence (Tiesto Mix),Delerium ft. Sarah McLachlan,1997
+1774,Mijn Van Straat Geredde Roos,De Dijk,2008
+1775,Sing,Ed Sheeran,2014
+1776,Invisible Touch,Genesis,1986
+1777,Monkey Gone To Heaven,Pixies,1989
+1778,Story Of My Life,One Direction,2013
+1779,Sunny Afternoon,Kinks,1966
+1780,Show Me The Way,Peter Frampton,1976
+1781,Mercy,Shawn Mendes,2016
+1782,Black Magic Woman,Fleetwood Mac,1968
+1783,A Slow Song,Joe Jackson,1982
+1784,Woman From Tokyo,Deep Purple,1973
+1785,Shut Up And Dance,Walk The Moon,2014
+1786,Blurred Lines,Robin Thicke ft. T.I. & Pharrell,2013
+1787,Love Rears Its Ugly Head,Living Colour,1990
+1788,Mister Blue,Rene Klijn,1993
+1789,Maria Maria,Santana ft. Product G&B,2000
+1790,Little Talks,Of Monsters And Men,2012
+1791,Money Money Money,ABBA,1976
+1792,Into The Mystic,Van Morrison,1970
+1793,Polly,Nirvana,1991
+1794,Watermensen,3JS,2008
+1795,West End Girls,Pet Shop Boys,1986
+1796,MacArthur Park,Richard Harris,1968
+1797,Freestyler,Bomfunk MC's,2000
+1798,Into Temptation,Crowded House,1989
+1799,Should I Stay Or Should I Go?,Clash,1991
+1800,Long Train Running,Doobie Brothers,1973
+1801,Hier Komt De Storm,Frank Boeijen,1988
+1802,Bullet The Blue Sky,U2,1987
+1803,Honesty,Billy Joel,1978
+1804,Talkin' Bout A Revolution,Tracy Chapman,1988
+1805,No Son Of Mine,Genesis,1991
+1806,Back Down South,Kings Of Leon,2011
+1807,Lost On You,LP,2016
+1808,Elevation,U2,2001
+1809,Bagagedrager,Spinvis,2002
+1810,Do It Again,Steely Dan,1972
+1811,Rape Me,Nirvana,1993
+1812,Sometimes You Can't Make It On Your Own,U2,2004
+1813,High And Dry,Radiohead,1995
+1814,No Rain,Blind Melon,1993
+1815,Enola Gay,Orchestral Manoeuvres In The Dark,1980
+1816,Hero,Enrique Iglesias,2001
+1817,I'll Be Over You,Toto,1986
+1818,Dichterbij Dan Ooit,Bløf,2001
+1819,Atmosphere,Joy Division,1979
+1820,Monday Monday,The Mamas & The Papas,1966
+1821,Refugee,Tom Petty & The Heartbreakers,1980
+1822,Sorry Seems To Be The Hardest Word,Elton John,1976
+1823,Ain't Nobody,Rufus & Chaka Khan,1984
+1824,Believe,Cher,1998
+1825,Fallin',Alicia Keys,2001
+1826,Hunting High And Low,A-Ha,1986
+1827,Dancin' Fool,Frank Zappa,1979
+1828,Papa Don't Preach,Madonna,1986
+1829,Rhythm Is A Dancer,Snap,1992
+1830,Wer Bisto,Twarres,2000
+1831,I Can't Make You Love Me,George Michael,1997
+1832,Across The Universe,Beatles,1970
+1833,Back In The U.S.S.R.,Beatles,1968
+1834,For No One,Beatles,1966
+1835,In The Name Of Love,Martin Garrix & Bebe Rexha,2016
+1836,Pyro,Kings Of Leon,2010
+1837,Beast Of Burden,Bette Midler,1984
+1838,Sweet Jane,Lou Reed,1974
+1839,Met Hart en Ziel,Tröckener Kecks,1990
+1840,I Saw Her Standing There,Beatles,1963
+1841,Pretty Fly (For A White Guy),Offspring,1999
+1842,YMCA,Village People,1978
+1843,15 Miljoen Mensen,Fluitsma & Van Tijn,1996
+1844,A Long December,Counting Crows,1996
+1845,Love Her Madly,Doors,1971
+1846,Club Tropicana,Wham,1983
+1847,I Just Can't Stop Loving You,Michael Jackson & Siedah Garrett,1987
+1848,Just The Way You Are,Billy Joel,1977
+1849,Rivers Of Babylon,Boney M,1978
+1850,Don't Think Twice It's All Right,Bob Dylan,1963
+1851,Ventura Highway,America,1972
+1852,In The Army Now,Status Quo,1986
+1853,Gloria,Them,1967
+1854,Up Where We Belong,Joe Cocker & Jennifer Warnes,1982
+1855,A Little Less Conversation,Elvis vs. JXL,2002
+1856,Wasted Time,Eagles,1976
+1857,Annabel,Hans De Booij,1983
+1858,I've Got You Under My Skin,Frank Sinatra,1956
+1859,It's A Beautiful Day,Michael Bublé,2013
+1860,Damn Those Eyes,Kane,1999
+1861,Song Sung Blue,Neil Diamond,1972
+1862,Is This Love,Whitesnake,1987
+1863,Kl 204 (Als Ik God Was),Peter Koelewijn,1978
+1864,You Got It,Roy Orbison,1989
+1865,Ocean of Night,Editors,2015
+1866,Water Of Love,Dire Straits,1978
+1867,Lady Madonna,Beatles,1968
+1868,Original Sin,Inxs,1984
+1869,I've Had The Time Of My Life,Bill Medley & Jennifer Warnes,1987
+1870,Why'd You Only Call Me When You're High?,Arctic Monkeys,2013
+1871,It's A Sin,Pet Shop Boys,1987
+1872,There Must Be An Angel (Playing With My Heart),Eurythmics,1985
+1873,Grace,Jeff Buckley,1994
+1874,Dakota,Stereophonics,2005
+1875,FourFiveSeconds,Rihanna & Paul McCartney & Kanye West,2015
+1876,Love Is The Drug,Roxy Music,1976
+1877,Cryin',Aerosmith,1993
+1878,Ms Jackson,Outkast,2001
+1879,Open Je Ogen,Bløf,2014
+1880,Hemingway,Bløf,2006
+1881,Hard To Handle,Black Crowes,1990
+1882,Feel Like Flying,Racoon,2000
+1883,Kids In America,Kim Wilde,1981
+1884,Southern Man,Neil Young,1970
+1885,Merry Xmas Everybody,Slade,1973
+1886,The Road Ahead (Miles Of The Unknown),City To City,1999
+1887,Catch & Release (Deepend Remix),Matt Simons,2015
+1888,Times Were When,Cats,1968
+1889,If I Could Turn Back Time,Cher,1989
+1890,Don't Let Me Be Misunderstood,Santa Esmeralda,1977
+1891,To Love Somebody,Bee Gees,1967
+1892,Weekend Love,Golden Earring,1979
+1893,That Was Yesterday,Foreigner,1985
+1894,New York Minute,Don Henley,1989
+1895,Shake It Off,Taylor Swift,2014
+1896,Diggin,Kovacs,2015
+1897,The Invisible Man,Queen,1989
+1898,Steppin' Out,Joe Jackson,1982
+1899,You Win Again,Bee Gees,1987
+1900,The Ballroom Blitz,Sweet,1973
+1901,Here There And Everywhere,Beatles,1966
+1902,Mr Rock & Roll,Amy MacDonald,2008
+1903,Where Do You Go To My Lovely,Peter Sarstedt,1969
+1904,Meeting Across The River,Bruce Springsteen,1975
+1905,Magnificent,U2,2009
+1906,Jamming,Bob Marley & The Wailers,1977
+1907,Send My Love (To Your New Lover),Adele,2016
+1908,Mysterious Ways,U2,1991
+1909,Set The Fire To The Third Bar,Snow Patrol ft. Martha Wainwright,2006
+1910,Beautiful,Christina Aguilera,2003
+1911,Here Comes The Rain Again,Eurythmics,1983
+1912,These Boots Are Made For Walking,Nancy Sinatra,1966
+1913,Eight Days A Week,Beatles,1965
+1914,Yours Is No Disgrace,Yes,1971
+1915,Out Of Space,Prodigy,1993
+1916,The Model,Kraftwerk,1978
+1917,The Last Time,Rolling Stones,1965
+1918,I'll Find My Way Home,Jon & Vangelis,1982
+1919,Wij Zullen Doorgaan,Ramses Shaffy,1975
+1920,On The Border,Al Stewart,1977
+1921,Sweet Disposition,Temper Trap,2010
+1922,Vrij Zijn,Marco Borsato,1995
+1923,It's Raining Men,Weather Girls,1983
+1924,I'll Have To Say I Love You In A Song,Jim Croce,1974
+1925,Birds,Chef'Special,2011
+1926,Don't,Ed Sheeran,2014
+1927,Don't Look Back,Boston,1978
+1928,Song Of The Marching Children,Earth & Fire,1971
+1929,Never Alone,2 Brothers on the 4th Floor,1993
+1930,Take My Breath Away,Berlin,1986
+1931,You Make Lovin' Fun,Fleetwood Mac,1978
+1932,Euphoria,Loreen,2012
+1933,Cose Della Vita,Eros Ramazzotti & Tina Turner,1998
+1934,Rosalyn,Vitesse,1982
+1935,It's All Over Now,Rolling Stones,1964
+1936,Waiting For The Sun,Doors,1970
+1937,Heart Of Glass,Blondie,1979
+1938,Karma Chameleon,Culture Club,1983
+1939,All Apologies,Nirvana,1993
+1940,Living In Another World,Talk Talk,1986
+1941,Out In The Fields,Gary Moore & Phil Lynott,1985
+1942,Liberian Girl,Michael Jackson,1989
+1943,Intergalactic,Beastie Boys,1998
+1944,No Surrender,Kane,2009
+1945,Forbidden Colours,Ryuichi Sakamoto & David Sylvian,1984
+1946,Good Grief,Bastille,2016
+1947,Witchy Woman,Eagles,1972
+1948,You Don't Bring Me Flowers,Neil Diamond & Barbra Streisand,1978
+1949,There's Nothing Holding Me Back,Shawn Mendes,2017
+1950,I Bet My Life,Imagine Dragons,2014
+1951,Mandy,Barry Manilow,1974
+1952,Behind Blue Eyes,Who,1971
+1953,Let's Spend The Night Together,Rolling Stones,1967
+1954,Homburg,Procol Harum,1967
+1955,In The Year 2525,Zager & Evans,1969
+1956,Love Games,Level 42,1981
+1957,Suite: Judy Blue Eyes,"Crosby, Stills & Nash",1969
+1958,Round Here,Counting Crows,1993
+1959,Babooshka,Kate Bush,1980
+1960,Daniel,Elton John,1973
+1961,Rockstar,Nickelback,2007
+1962,Have You Ever Been Mellow,Party Animals,1996
+1963,Gold,Prince,1995
+1964,People Help The People,Birdy,2011
+1965,Keep The Faith,Bon Jovi,1992
+1966,Say You Won't Let Go,James Arthur,2016
+1967,Ruby,Kaiser Chiefs,2007
+1968,Daydream Believer,Monkees,1967
+1969,Lovesong,Cure,1989
+1970,As,Stevie Wonder,1976
+1971,Mad World,Tears For Fears,1983
+1972,How Can We Hang On To A Dream,Tim Hardin,1967
+1973,Secret Garden,Bruce Springsteen,1995
+1974,True,Spandau Ballet,1983
+1975,The Great Pretender,Freddie Mercury,1987
+1976,You're The Inspiration,Chicago,1985
+1977,Fairground,Simply Red,1995
+1978,Sadeness,Enigma,1990
+1979,I Surrender,Saybia,2004
+1980,Find The River,R.E.M.,1992
+1981,Like A Virgin,Madonna,1984
+1982,Hello Goodbye,Beatles,1967
+1983,Read All About It pt. III,Emeli Sandé,2013
+1984,Sausolito Summernight,Diesel,1980
+1985,Love Shack,B-52's,1989
+1986,Banana Pancakes,Jack Johnson,2005
+1987,Take Your Time Girl,Niels Geusebroek,2013
+1988,Sylvia,Focus,1972
+1989,In Between Days,Cure,1985
+1990,For What It's Worth,Buffalo Springfield,1967
+1991,Breakfast At Tiffany's,Deep Blue Something,1996
+1992,Love Of The Common People,Paul Young,1984
+1993,Hey Boy Hey Girl,Chemical Brothers,1999
+1994,I Can't Dance,Genesis,1992
+1995,Strangers In The Night,Frank Sinatra,1966
+1996,Let It Go,James Bay,2015
+1997,Isn't It Time,Babys,1977
+1998,Stop This Train,John Mayer,2006
+1999,What Is Love,Haddaway,1993
+2000,Teardrops,Womack & Womack,1988

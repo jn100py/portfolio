@@ -37,3 +37,6 @@ In this repository I showcase a selection of projects on which I worked the last
 
 **languages:** Python and Pandas<br/>
 
+### Data analysis Top 2000
+
+**languages:** R<br/>

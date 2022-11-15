@@ -1,0 +1,45 @@
+
+# How to open the Jupyter Notebook file in GitHub
+
+Simply click the on the .ipynb file
+
+
+
+# How to open the Jupyter Notebook file on the PC
+
+To open the Jupyter Notebook file, the following programs and packages are required:
+
+- Jupyter Notebook
+- R
+- R plugin for Jupyter Notebook
+
+
+## How to install the R plugin for Jupyter Notebook (in Linux)
+
+Open a terminal screen
+
+Enter de R shell, by typing
+
+    R<enter>
+
+
+Then install the R kernel for Jupyter Notebook as follows:
+
+    install.packages('IRkernel')
+
+    IRkernel::installspec(user = FALSE)
+
+
+
+## How to open the Jupyter Notebook file
+
+Open a terminal
+
+cd to project directory
+
+
+then type:
+    jupyter-notebook top2000_data_analysis.ipynb
+
+    (or: jupyter notebook)
+
