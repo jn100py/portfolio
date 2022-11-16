@@ -10,7 +10,7 @@ In this repository I showcase a selection of projects on which I worked the last
 ### Data parse application
 
 **languages:** Python<br/>
-**testing:** my own unit test application<br/>
+**tested with:** my own unit test application<br/>
 6500 lines (no files, only presentation)
 
 
@@ -18,13 +18,13 @@ In this repository I showcase a selection of projects on which I worked the last
 ### Newsreader
 
 **languages:** Python and Flask<br/>
-**testing:** Pytest<br/>
+**tested with:** Pytest<br/>
 
 
 ### Chess application
 
 **languages:** Python, Flask, JavaScript and jQuery / XMLHttpRequest and JSON<br/>
-**testing:** Pytest and Selenium<br/>
+**tested with:** Pytest and Selenium<br/>
 
 
 ### Document Viewer
