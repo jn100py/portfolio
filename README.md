@@ -4,14 +4,14 @@ In this repository I showcase a selection of projects on which I worked the last
 ### Unit test application
 
 **languages:** Python<br/>
-2500 lines (no files, only presentation)
+**info:** One minute presentation<br/>
+
 
 
 ### Data parse application
 
 **languages:** Python<br/>
 **tested with:** my own unit test application<br/>
-6500 lines (no files, only presentation)
 
 
 # Web development
