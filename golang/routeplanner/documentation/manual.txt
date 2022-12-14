@@ -1,0 +1,32 @@
+
+# introduction
+
+In this demo we use Dijkstra's algorithm to calculate the shortest path betwoon two points in a graph.
+
+We use this functionality in a simple routeplanner.
+
+The routeplanner application loads a map from a txt file, and can handle requests to find the shortest path
+between two points on a map.
+
+
+
+# prerequisites
+
+go version 1.17.3 or higher
+
+
+
+# start application
+
+cd </path/2>/routeplanner
+
+go run main.go
+
+
+# test application
+
+cd </path/2>/routeplanner/testing/unittests
+
+go test
+
+

@@ -1,0 +1,81 @@
+# run tests
+
+
+./routeplanner/testing/unittests$ go test
+PASS
+ok  	demo/testing/unittests	0.001s
+
+
+
+
+# run program
+
+./routeplanner$ go run main.go
+
+
+
+
+Stuivezand -> Number of Locations : 6
+
+Locations:
+    Everveen
+    / Connections: map[Lammendam:14 Zwanenzang:30]
+
+    Lammendam
+    / Connections: map[Everveen:14 Koedijk:65 Paardenmarkt:68 Zwanenzang:20]
+
+    Zwanenzang
+    / Connections: map[Everveen:30 Koedijk:50 Lammendam:20 Paardenmarkt:51]
+
+    Koedijk
+    / Connections: map[Hertenpark:15 Lammendam:65 Paardenmarkt:7 Zwanenzang:50]
+
+    Paardenmarkt
+    / Connections: map[Hertenpark:20 Koedijk:7 Lammendam:68 Zwanenzang:51]
+
+    Hertenpark
+    / Connections: map[Koedijk:15 Paardenmarkt:20]
+
+
+
+
+    - Stuivezand -
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55      X Hertenpark
+50
+45
+40           X Koedijk
+35      X Paardenmarkt
+30
+25
+20
+15                                                                       X Lammendam
+10                                                   X Zwanenzang
+5                                                                                  X Everveen
+0
+
+
+Map Stuivezand is currently active and has 6 locations
+Start location is : Everveen
+  End location is : Hertenpark
+
+
+Shortest Path is [Everveen Lammendam Koedijk Hertenpark] with length 94
+
+
+
+
+
+
+
+
+
+

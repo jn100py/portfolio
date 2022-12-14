@@ -1,0 +1,6 @@
+Everveen,80,5,Lammendam,Zwanenzang
+Lammendam,70,15,Everveen,Zwanenzang,Koedijk,Paardenmarkt
+Zwanenzang,50,10,Everveen,Lammendam,Koedijk,Paardenmarkt
+Koedijk,10,40,Lammendam,Zwanenzang,Paardenmarkt,Hertenpark
+Paardenmarkt,5,35,Lammendam,Zwanenzang,Koedijk,Hertenpark
+Hertenpark,5,55,Koedijk,Paardenmarkt
