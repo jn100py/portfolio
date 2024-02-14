@@ -1,0 +1,16 @@
+
+- Landscape application
+
+This application is based on the CNCF landscape (see https://landscape.cncf.io)
+The original code is open source and can be found here:
+    - https://github.com/cncf/landscape
+    - https://github.com/cncf/landscapeapp
+
+
+The application is largely written in Node.js and was modified such that it
+can work with project data, instead of company data.
+
+The Netlify component (used for Continuous Deployment) was removed and replaced by a Bash script.
+Our version of the landscape runs on NGINX in an Amazon Lightsail environment.
+
+

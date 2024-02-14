@@ -1,15 +1,5 @@
-In this repository I showcase a selection of projects on which I worked the last 4 years.
+In this repository I showcase a selection of personal and professional projects on which I worked in the last 4 years.
 
-# Test applications
-### Unit test application
-
-**languages:** Python<br/>
-**info:** One minute presentation<br/>
-
-### Data parse application
-
-**languages:** Python<br/>
-**tested with:** my own unit test application<br/>
 
 
 # Web development
@@ -17,6 +7,12 @@ In this repository I showcase a selection of projects on which I worked the last
 
 **languages:** Python and Flask<br/>
 **tested with:** Pytest<br/>
+
+
+### Landscape application (professional)
+
+**languages:** Node.js<br/>
+**info:** Screenshots of the application<br/>
 
 
 ### Chess application
@@ -30,11 +26,6 @@ In this repository I showcase a selection of projects on which I worked the last
 **languages:** Node.js, React and JavaScript / Fetch API and JSON<br/>
 
 
-# Golang
-### Routeplanner
-**languages:** Golang<br/>
-**tested with:** go test<br/>
-
 
 # Data Science
 ### Data analysis Dutch municipalities
@@ -44,3 +35,20 @@ In this repository I showcase a selection of projects on which I worked the last
 ### Data analysis Top 2000
 
 **languages:** R<br/>
+
+
+
+# Golang
+### Routeplanner
+**languages:** Golang<br/>
+**tested with:** go test<br/>
+
+
+
+# Utils
+### Test applications
+
+**languages:** Python<br/>
+**info:** One minute presentation<br/>
+
+
