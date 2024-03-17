@@ -31,6 +31,7 @@ In this repository I showcase a selection of personal and professional projects 
 ### Data analysis Dutch municipalities
 
 **languages:** Python and Pandas<br/>
+**info:** Merge data on municipalities and elections from 2 data sources and conduct statistical analysis<br/>
 
 ### Data analysis Top 2000
 
